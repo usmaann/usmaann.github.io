@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [School of Computer Science, The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/jinman-kim.html), [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html), and [Assoc. Prof Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html). I obtained my Masters in Analytics (Research) from the [School of Computer Science, University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), in 2020 under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys). I have also worked in leading ICT companies like [Alcatel-Lucent](https://www.al-enterprise.com/en) and [Nokia](https://www.nokia.com/networks/) for 9+ years in various roles.
+I am a Ph.D. candidate at the [School of Computer Science, The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/jinman-kim.html), [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html), and [Assoc. Prof Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html). I obtained my Masters in Analytics (Research) from the [School of Computer Science, University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), in 2020 under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys). I have also worked in leading ICT companies like [Alcatel-Lucent](https://www.al-enterprise.com/en) and [Nokia](https://www.nokia.com/networks/) for 9+ years in various roles. I am also a Research Associate at the Telehealth and Technology Center, Nepean Hospital, Australia.
 
 My research interests includes Natural Language Processing and Machine Learning, with focus on Social-Media Analysis, Computational Health Informatics and Medical Image Analysis.  
 
@@ -19,10 +19,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- A data-driven personal website -->
 
-======
-1. **Scholarhsip**, Australain Government Research Training Program Scholarship (RTPS), 2018-2020.
-2. **Scholarhsip**, Australain Government Research Training Program Scholarship (RTPS), 2021-2023.
-3. **Postgraduate Research Supplementary Scholarhsip**, The University of Sydney, Australia, 2021.
+
+1. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2018-2020.
+2. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2021-2023.
+3. **Postgraduate Research Supplementary Scholarhsip**, University of Sydney, Australia, 2021.
 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understadning Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020.
 
 
