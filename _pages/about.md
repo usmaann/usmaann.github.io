@@ -27,6 +27,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- **Collaboration** -->
 
+**Recent News**
+
 **Contact**
 
 Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
