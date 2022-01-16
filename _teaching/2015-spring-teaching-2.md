@@ -20,5 +20,5 @@ I am in giving tutorials to the master level students at the University of Sydne
 
 I supervise master level students to complete their capstone projects to complete their master degree requirements. [Capstone project](https://www.sydney.edu.au/units/COMP5703) provides an opportunity for students to carry out a defined piece of independent research or design. These skills include the capacity to define a research or design question, show how it relates to existing knowledge and carry out the research or design in a systematic manner.
 
-Heading 3
-======
+<!-- Heading 3
+====== -->
