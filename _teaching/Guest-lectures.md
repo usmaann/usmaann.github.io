@@ -1,7 +1,7 @@
 ---
 title: "Guest Lectures"
 collection: teaching
-type: "Undergraduate and Masters course"
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Computer Science, University of Sydney"
 date: 2021-03-01
