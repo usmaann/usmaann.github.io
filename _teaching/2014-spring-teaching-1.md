@@ -8,7 +8,7 @@ date: 2020-07-01
 location: "Sydney, Australia"
 ---
 
-At SISTC, I am involved in teaching data science and analytics to undergraduate students. 
+At SISTC, I am involved in teaching courses related to data science and programming to undergraduate students. 
 
 Heading 1
 ======
