@@ -1,24 +1,37 @@
 ---
 title: "Guest Lectures"
 collection: teaching
-<!-- type: "Masters course" -->
+type: "Undergraduate and Masters course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Computer Science, University of Sydney"
-<!-- date: 2020-07-01 -->
+date: 2021-03-01
 location: "Sydney, Australia"
 ---
 
+
+<!-- 
+---
+title: "Guest Lectures"
+collection: teaching
+type: "Masters course"
+permalink: /teaching/2015-spring-teaching-1
+venue: "School of Computer Science, University of Sydney"
+date: 2020-07-01
+location: "Sydney, Australia"
+--- -->
+
 <!-- This is a description of a teaching experience. You can use markdown like any other post. -->
 
-**COMP5310: Principles of Data Science**
+**HTIN5005: Computational Approaches for Healthcare Data**
 ======
-I am in giving tutorials to the master level students at the University of Sydney, Australia. This [course](https://www.sydney.edu.au/units/COMP5310) focus on understanding and applying relevant concepts, techniques, algorithms, and tools for the analysis, management and visualisation of data- with the goal of enabling discovery of information and knowledge to guide effective decision making and to gain new insights from large data sets. 
+I was invited to deliver a guest lecture on NLP to undergraduate students at the University of Sydney, Australia. In this lecture, I highlighted the importance of NLP and how it can be used in healthcare. 
 
 
-**COMP5703: Information Technology Capstone Project**
+**INFO5306: Enterprise Healthcare Information Systems**
 ======
 
-I supervise master level students to complete their capstone projects to complete their master degree requirements. [Capstone project](https://www.sydney.edu.au/units/COMP5703) provides an opportunity for students to carry out a defined piece of independent research or design. These skills include the capacity to define a research or design question, show how it relates to existing knowledge and carry out the research or design in a systematic manner.
+I was invited to deliver a guest lecture on NLP to master students at the University of Sydney, Australia. In this lecture, I highlighted the overview of methods used in NLP, and discussed how user generated data on social media can be used for public health monitoring and surverllance using NLP. 
+
 
 <!-- Heading 3
 ====== -->
