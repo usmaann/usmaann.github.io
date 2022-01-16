@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-premalink: /groups/
+premalink: /services/
 author_profile: true
 ---
 
