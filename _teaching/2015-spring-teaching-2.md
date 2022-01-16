@@ -7,13 +7,13 @@ venue: "School of Computer Science, University of Sydney"
 date: 2020-07-01
 location: "Sydney, Australia"
 ---
-**COMP5310: Principles of Data Science**
+**COMP5310: Principles of Data Science:**
 <!-- ====== -->
 
 I am involved in giving tutorials to the master level students at the University of Sydney, Australia. This [course](https://www.sydney.edu.au/units/COMP5310) focus on understanding and applying relevant concepts, techniques, algorithms, and tools for the analysis, management and visualisation of data- with the goal of enabling discovery of information and knowledge to guide effective decision making and to gain new insights from large data sets. 
 
 
-**COMP5703: Information Technology Capstone Project**
+**COMP5703: Information Technology Capstone Project:**
 <!-- ====== -->
 
 
