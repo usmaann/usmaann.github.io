@@ -28,15 +28,19 @@ Session chair for NLP session at ICONIP-2020
 
 I review for several journals. Some of the details of my reviewing can be found at [Publons](https://publons.com/researcher/3306585/usman-naseem/).
 
-[EEE Journal of Biomedical And Health Informatics] (https://www.embs.org/jbhi/)
+<!-- [IEEE Journal of Biomedical And Health Informatics] (https://www.embs.org/jbhi/) -->
 
-{EEE Transactions on Computational Social Systems} (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
+[IEEE Journal of Biomedical And Health Informatics](https://www.embs.org/jbhi/)
+
+<!-- [EEE Transactions on Computational Social Systems] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650) -->
+
+[IEEE Transactions on Computational Social System](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570650)
 
 [EEE Access](https://ieeeaccess.ieee.org/)
 
 [EEE Transactions on Affective Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369)
 
-[ig Data & Society](https://journals.sagepub.com/home/bds)
+[Big Data & Society](https://journals.sagepub.com/home/bds)
 
 [International Journal of Data Science and Analytics](https://www.springer.com/journal/41060)
 
