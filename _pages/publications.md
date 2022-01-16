@@ -9,7 +9,7 @@ author_profile: true
 
 Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61Ou1P8AAAAJ&hl=en) page for a detailed list of my publications, including citations count.
 
-**Conference papers**
+**Selected Conference Papers**
 
 (10) Jahan, Sadia, Md Rafiqul Islam, Khan Md Hasib, **Usman Naseem**, and Md Saiful Islam. "Active Learning with an Adaptive Classifier for Inaccessible Big Data Analysis." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
 
@@ -32,7 +32,7 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 (1) **Naseem, Usman**, and Katarzyna Musial. "DICE: Deep Intelligent Contextual Embedding for Twitter Sentiment Analysis." In 2019 International Conference on Document Analysis and Recognition (ICDAR), pp. 953-958. IEEE Computer Society, 2019. (**CORE A**)
 
 
-**Journal papers**
+**Selected Journal Papers**
 
 (6) Adhikari, Surabhi, Surendrabikram Thapa, **Usman Naseem**, Priyanka Singh, Huan Huo, Gnana Bharathy, and Mukesh Prasad. "Exploiting Linguistic Information from Nepali Transcripts for Early Detection of Alzheimer's Disease using Natural Language Processing and Machine Learning Techniques." International Journal of Human-Computer Studies (2021): 102761. (**IF=3.63**)
 
