@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  Professional Services:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
