@@ -9,12 +9,3 @@ location: "Sydney, Australia"
 ---
 
 At SISTC, I am involved in teaching courses related to data science and programming to undergraduate students. 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
