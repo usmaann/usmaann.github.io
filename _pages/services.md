@@ -4,25 +4,6 @@ title: ""
 permalink: /services/
 author_profile: true
 ---
-**Conference Program Committee (PC)**
-
-PC for NeuRec Workshop at ICDM 2021
-
-PC for ICONIP 2021
-
-PC for ICONIP 2020
-
-**Conference External Reviewer or Sub-reviewer**
-
-IJCNN 2020, IJCNN 2021
-
-IJCAI 2020
-
-PAKDD 2020
-
-**Session Sessior**
-
-Session chair for NLP session at ICONIP-2020
 
 **Journal Reviewer**
 
@@ -49,4 +30,27 @@ I review for several journals. Some of the details of my reviewing can be found 
 [PloS one](https://journals.plos.org/plosone/)
 
 [Frontiers in Artificial Intelligence ](https://www.frontiersin.org/journals/artificial-intelligence)
+
+
+**Conference Program Committee (PC)**
+
+PC for NeuRec Workshop at ICDM 2021
+
+PC for ICONIP 2021
+
+PC for ICONIP 2020
+
+**Conference External Reviewer or Sub-reviewer**
+
+IJCNN 2020, IJCNN 2021
+
+IJCAI 2020
+
+PAKDD 2020
+
+**Session Sessior**
+
+Session chair for NLP session at ICONIP-2020
+
+
 <!-- I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on text mining, natural language processing (NLP), information retrieval using machine learning methods. We propose new methods (novel mathematical models) in machine learning. So, please feel free to get in touch if you are passionate about Mathematics or like solving interesting problems around search and NLP. -->
