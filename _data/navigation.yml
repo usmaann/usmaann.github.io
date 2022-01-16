@@ -12,8 +12,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-#   - title: "Collaboration"
-#     url: /portfolio/
+  - title: "Collaboration"
+    url: /portfolio/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
