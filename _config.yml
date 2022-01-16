@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Usman Naseem"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Usman Naseem"
+description              : &description "PhD Candidate at The University of Sydney, Australia"
 url                      : https://usmaann.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://usmaann.github.io/"
+repository               : "usmaann/https://usmaann.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?user=61Ou1P8AAAAJ&hl=en"
-  email            :
+  email            : "usman.naseem@sydney.edu.au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "usman-naseem-a1568a139"
   orcid            : "http://orcid.org/0000-003-0191-7171"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+#   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
