@@ -27,7 +27,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- **Collaboration** -->
 
-**Recent News**
+**News**
 
 **Contact**
 
