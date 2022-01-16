@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "services"
 premalink: /services/
 author_profile: true
 ---
