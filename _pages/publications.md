@@ -43,7 +43,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 (3) Qazi, Atika, Chiranjib Bhowmik, Fayaz Hussain, Shuiqing Yang, **Usman Naseem**, Abayomi-Alli Adebayo, Abdu Gumaei, and Mabrook Al-Rakhami. "Analyzing the Public Opinion as a Guide for Renewable-Energy Status in Malaysia: A Case Study." IEEE Transactions on Engineering Management (2021). (**IF=6.14**)
 
 (2) **Naseem, Usman**, Imran Razzak, and Peter W. Eklund. "A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter." Multimedia Tools and Applications (2020): 1-28. (**IF=2.7**)
-<!-- (**IF=2.7, CORE B, JCQ Q1**) -->
+
+
 (1) **Naseem, Usman**, Imran Razzak, Katarzyna Musial, and Muhammad Imran. "Transformer based deep intelligent contextual embedding for twitter sentiment analysis." Future Generation Computer Systems 113 (2020): 58-69. (**IF=7.18**)
 
 <!--  (**IF=7.18, CORE A, JCQ Q1**) -->
