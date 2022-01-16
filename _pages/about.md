@@ -33,7 +33,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
 
-<a href='https://clustrmaps.com/site/1bma2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=3f8c8b&w=488&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080'/></a>
+
+<a href='https://clustrmaps.com/site/1bma2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080'/></a>
 
 
 
