@@ -10,6 +10,7 @@ author_profile: true
 Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61Ou1P8AAAAJ&hl=en) page for a detailed list of my publications, including citations count.
 
 **Conference papers**
+
 (10) Jahan, Sadia, Md Rafiqul Islam, Khan Md Hasib, **Usman Naseem**, and Md Saiful Islam. "Active Learning with an Adaptive Classifier for Inaccessible Big Data Analysis." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
 
 (9) **Naseem, Usman**, Matloob Khushi, Jinman Kim and Adam Dunn, "Classifying vaccine sentiment tweets by modelling domain-specific representation and commonsense knowledge into context-aware attentive GRU," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-8,  (**CORE A**)
