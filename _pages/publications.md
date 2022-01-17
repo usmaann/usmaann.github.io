@@ -25,7 +25,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 (4) **Naseem, Usman**, Matloob Khushi, Shah Khalid Khan, Nazar Waheed, Adnan Mir, Atika Qazi, Bandar Alshammari, and Simon K. Poon. "Diabetic Retinopathy Detection Using Multi-layer Neural Networks and Split Attention with Focal Loss." In International Conference on Neural Information Processing, pp. 26-37. Springer, Cham, 2020. (**CORE A**)
 
-(3) **Naseem, Usman**, Katarzyna Musial, Peter Eklund, and Mukesh Prasad. "Biomedical named-entity recognition by hierarchically fusing biobert representations and deep contextual-level word-embedding." In 2020 International Joint Conference on Neural Networks (IJCNN), pp. 1-8. IEEE, 2020. (**CORE A**)
+(3) **Naseem, Usman**, Imran Razzak, Peter Eklund, and Katarzyna Musial. "Towards improved deep contextual embedding for the identification of irony and sarcasm." In 2020 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2020. (**CORE A**)
+
 
 (2) **Naseem, Usman**, Katarzyna Musial, Peter Eklund, and Mukesh Prasad. "Biomedical named-entity recognition by hierarchically fusing biobert representations and deep contextual-level word-embedding." In 2020 International Joint Conference on Neural Networks (IJCNN), pp. 1-8. IEEE, 2020. (**CORE A**)
 
