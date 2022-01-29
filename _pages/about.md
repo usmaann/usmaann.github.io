@@ -29,6 +29,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
+-- 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
+
+-- 1 full paper accepted at the ICDM NeuRec Workshop 2021
+
+-- Our COVIDSenti paper has been ranked as the most popular paper since August 2021 till date - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+
 **Contact**
 
 Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
