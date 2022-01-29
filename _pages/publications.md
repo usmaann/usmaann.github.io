@@ -11,6 +11,12 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Conference Papers**
 
+(13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper)  (**CORE A+***)
+
+(12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper)  (**CORE A+***)
+
+(11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021.
+
 (10) Jahan, Sadia, Md Rafiqul Islam, Khan Md Hasib, **Usman Naseem**, and Md Saiful Islam. "Active Learning with an Adaptive Classifier for Inaccessible Big Data Analysis." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
 
 (9) **Naseem, Usman**, Matloob Khushi, Jinman Kim and Adam Dunn, "Classifying vaccine sentiment tweets by modelling domain-specific representation and commonsense knowledge into context-aware attentive GRU," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-8,  (**CORE A**)
