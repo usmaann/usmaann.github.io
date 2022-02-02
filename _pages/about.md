@@ -24,6 +24,7 @@ This is the front page of a website that is powered by the [academicpages templa
 2. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2021-2023.
 3. **Postgraduate Research Supplementary Scholarhsip**, University of Sydney, Australia, 2021.
 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020.
+5. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
 
 <!-- **Collaboration** -->
 
