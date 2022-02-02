@@ -35,6 +35,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 -- Our COVIDSenti paper has been ranked as the most popular paper since August 2021 till date - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
 
+
+
+<a href="https://twitter.com/solodev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @solodev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 **Contact**
 
 Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
