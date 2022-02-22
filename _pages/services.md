@@ -34,6 +34,12 @@ I review for several journals. Some of the details of my reviewing can be found 
 
 **Conference Program Committee (PC)**
 
+PC for MICCAI 2022
+
+PC for LREC 2022
+
+PC for ICWSM 2022
+
 PC for NeuRec Workshop at ICDM 2021
 
 PC for ICONIP 2021
