@@ -34,6 +34,12 @@ I review for several journals. Some of the details of my reviewing can be found 
 
 **Conference Program Committee (PC)**
 
+PC for MM 2022
+
+PC for ACL 2022 Workshop LT-EDI
+
+PC for NAACL 2022
+
 PC for MICCAI 2022
 
 PC for LREC 2022
