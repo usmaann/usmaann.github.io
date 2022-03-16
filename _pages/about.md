@@ -30,13 +30,23 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
--- Invited to serve as a PC member of ICWSM 2022, LREC 2022, MICCAI 2022, NAACL 2022, ACL 2022 Workshop LT-EDI, MM 2022
+--  Invited to serve as a PC member for MM 2022
 
+-- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI,
+
+-- Invited to serve as a PC member for NAACL 2022,
+
+-- Invited to serve as a PC member for MICCAI 2022,
+
+-- Invited to serve as a PC member for LREC 2022
+
+-- Invited to serve as a PC member for ICWSM 2022,
+   
 -- 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
 
 -- 1 full paper accepted at the ICDM NeuRec Workshop 2021
 
--- Our COVIDSenti paper has been ranked as the most popular paper since August 2021 till date - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+-- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 7 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
 
 
 **Contact**
