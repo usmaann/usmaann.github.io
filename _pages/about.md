@@ -30,6 +30,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
+-- Invited to serve as a PC member for ECML/PKDD 2022 
+
 --  Invited to serve as a PC member for MM 2022
 
 -- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI,
