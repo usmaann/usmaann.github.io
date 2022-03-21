@@ -41,6 +41,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
+(7) **Naseem, Usman**, Matloob Khushi, and Jinman Kim. "Vision-Language Transformer for Interpretable Pathology Visual Question Answering" IEEE Journal of Biomedical and Health Informatics (J-BHI). (**IF=5.77**)
+
 (6) Adhikari, Surabhi, Surendrabikram Thapa, **Usman Naseem**, Priyanka Singh, Huan Huo, Gnana Bharathy, and Mukesh Prasad. "Exploiting Linguistic Information from Nepali Transcripts for Early Detection of Alzheimer's Disease using Natural Language Processing and Machine Learning Techniques." International Journal of Human-Computer Studies (2021): 102761. (**IF=3.63**)
 
 (5) **Naseem, Usman**, Imran Razzak, Shah Khalid Khan, and Mukesh Prasad. "A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models." Transactions on Asian and Low-Resource Language Information Processing 20, no. 5 (2021): 1-35. (**IF=1.41**)
