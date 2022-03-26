@@ -30,6 +30,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
+-- 1 paper accepted at the ACL-22 NLP-Power Workshop
+
 -- 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics (J-BHI)
 
 -- Invited to serve as a PC member for ECML/PKDD 2022 
