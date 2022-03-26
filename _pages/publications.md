@@ -11,9 +11,11 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Conference Papers**
 
-(13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper)  (**CORE A+***)
+(14)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected]
 
-(12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper)  (**CORE A+***)
+(13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
+
+(12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
 
 (11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021.
 
