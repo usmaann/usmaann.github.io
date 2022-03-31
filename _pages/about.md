@@ -30,6 +30,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
+-- 1 full paper on BioNLP is accepted in the BMC Bioinformatics journal
+
 -- 1 paper accepted at the ACL 2022 NLP-Power Workshop
 
 -- 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics (J-BHI)
