@@ -43,6 +43,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
+(8) **Naseem, Usman**, Adam G. Dunn, Matloob Khushi, and Jinman Kim. "Benchmarking for Biomedical Natural Language Processing Tasks with a Domain Specific ALBERT", BMC Bioinformatics (**IF=3.62**)
+
 (7) **Naseem, Usman**, Matloob Khushi, and Jinman Kim. "Vision-Language Transformer for Interpretable Pathology Visual Question Answering" IEEE Journal of Biomedical and Health Informatics (J-BHI). (**IF=5.77**)
 
 (6) Adhikari, Surabhi, Surendrabikram Thapa, **Usman Naseem**, Priyanka Singh, Huan Huo, Gnana Bharathy, and Mukesh Prasad. "Exploiting Linguistic Information from Nepali Transcripts for Early Detection of Alzheimer's Disease using Natural Language Processing and Machine Learning Techniques." International Journal of Human-Computer Studies (2021): 102761. (**IF=3.63**)
