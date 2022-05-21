@@ -43,6 +43,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
+(9) **Naseem, Usman**, Jinman Kim, Matloob Khushi, and Adam G. Dunn. "Robust Identification of Figurative Language in Personal Health Mentions on Twitter." IEEE Transactions on Artificial Intelligence 1, no. 01 (2022): 1-1.
+
 (8) **Naseem, Usman**, Adam G. Dunn, Matloob Khushi, and Jinman Kim. "Benchmarking for Biomedical Natural Language Processing Tasks with a Domain Specific ALBERT", BMC Bioinformatics (**IF=3.62**)
 
 (7) **Naseem, Usman**, Matloob Khushi, and Jinman Kim. "Vision-Language Transformer for Interpretable Pathology Visual Question Answering" IEEE Journal of Biomedical and Health Informatics (J-BHI). (**IF=5.77**)
