@@ -80,7 +80,7 @@ Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in w
 
 <!-- <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script> -->
 
-**Want to schedule a meeting?** <a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a></div>
+**Want to schedule a meeting?** <a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a>
 <!-- <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a></div> -->
 <!-- **For meeting** -->
 <!--  <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">30 Minute Meeting - Schedule a meeting</a></div> -->
