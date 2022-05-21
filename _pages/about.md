@@ -34,9 +34,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- **May-2022:** Invited to serve as a PC member for ICWSM 2023 -->
 
-**March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022,
+<!-- **March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022, -->
 
 **April-2022:** 1 paper accepted at the ACL 2022 NLP-Power Workshop
+
+**March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022,
 
 **March-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
 
