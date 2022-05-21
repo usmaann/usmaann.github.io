@@ -44,7 +44,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **March-2022:** Invited to serve as a PC member for ECML/PKDD 2022 
 
-**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics (J-BHI)
+**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics 
 
 **Feburary-2022:** Invited to serve as a PC member for MICCAI 2022
 
