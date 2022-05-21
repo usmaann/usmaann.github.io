@@ -80,11 +80,14 @@ Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in w
 
 <!-- <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script> -->
 
+**Want to schedule a meeting?** <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a></div>
+<!-- <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">Click here to schedule a 30 Minute Meeting - Schedule a meeting</a></div> -->
+<!-- **For meeting** -->
+<!--  <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">30 Minute Meeting - Schedule a meeting</a></div> -->
 
-**For meeting**
- <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">30 Minute Meeting - Schedule a meeting</a></div>
 
 <a class="twitter-timeline" data-width="650" data-height="250" data-theme="light" href="https://twitter.com/UsmanNaseem87?ref_src=twsrc%5Etfw">Tweets by UsmanNaseem87</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 <a href='https://clustrmaps.com/site/1bma2'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080'/></a>
