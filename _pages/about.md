@@ -72,7 +72,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- -- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
-For more details please see [publications page](https://github.com/usmaann/usmaann.github.io/blob/master/_pages/publications.md)
+For more details please see [publications page](https://usmaann.github.io//publications/)
 
 ## Contact
 
