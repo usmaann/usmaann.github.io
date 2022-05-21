@@ -30,38 +30,56 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **News**
 
--- 1 full paper on BioNLP is accepted in the BMC Bioinformatics journal
+**May-2022:** 1 full paper is accepted at IEEE Transactions on Artificial Intelligence
 
--- 1 paper accepted at the ACL 2022 NLP-Power Workshop
+<!-- **May-2022:** Invited to serve as a PC member for ICWSM 2023 -->
 
--- 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics (J-BHI)
+**March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022,
 
--- Invited to serve as a PC member for ECML/PKDD 2022 
+**April-2022:** 1 paper accepted at the ACL 2022 NLP-Power Workshop
 
---  Invited to serve as a PC member for MM 2022
+**March-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
 
--- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI,
+**March-2022:** Invited to serve as a PC member for MM 2022
 
--- Invited to serve as a PC member for NAACL 2022,
+**March-2022:** Invited to serve as a PC member for ECML/PKDD 2022 
 
--- Invited to serve as a PC member for MICCAI 2022,
+**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics (J-BHI)
 
--- Invited to serve as a PC member for LREC 2022
+**Feburary-2022:** Invited to serve as a PC member for MICCAI 2022
 
--- Invited to serve as a PC member for ICWSM 2022,
+**Feburary-2022:** Invited to serve as a PC member for LREC 2022
+
+**Feburary-2022:** Invited to serve as a PC member for ICWSM 2022
+
+**January-2022:** 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
+
+**Popular paper:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+
+<!-- -- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI, -->
+
+<!-- -- Invited to serve as a PC member for NAACL 2022, -->
+
+<!-- -- Invited to serve as a PC member for MICCAI 2022,
+
+<!--- Invited to serve as a PC member for LREC 2022 -->
+
+<!--- Invited to serve as a PC member for ICWSM 2022,
    
--- 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
+<!--- 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
 
--- 1 full paper accepted at the ICDM NeuRec Workshop 2021
+<!-- -- 1 full paper accepted at the ICDM NeuRec Workshop 2021 -->
 
--- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+<!-- -- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
+For more details please see [publications page](https://github.com/usmaann/usmaann.github.io/blob/master/_pages/publications.md)
 
 **Contact**
 
 Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
 
 <!-- <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script> -->
+
 
 **For meeting**
  <div class="zcal-inline-widget"><a href="https://zcal.co/i/eKQ5SiB_">30 Minute Meeting - Schedule a meeting</a></div>
