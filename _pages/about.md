@@ -10,8 +10,16 @@ redirect_from:
 
 Usman Naseem is a Ph.D. candidate at the [School of Computer Science, The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Assoc. Prof Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [School of Computer Science, University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), in 2020 under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys). Before joining academia, he worked in leading ICT companies like [Alcatel-Lucent](https://www.al-enterprise.com/en) and [Nokia](https://www.nokia.com/networks/) for 9+ years in various roles. Usman is also a Research Associate at the Telehealth and Technology Center, Nepean Hospital, Australia.
 
-His primary research is in the intersection of **machine learning** and **natural language processing** for _social media analytics_ and _biomedical/health informatics_. His research aims to improve health literacy, evidence-informed decision making, and health behaviors by monitoring how evidence and misinformation are taken up in different communities
+His primary research is in the intersection of **machine learning** and **natural language processing** for _social media analytics_ and _biomedical/health informatics_. 
 
+<!-- His research aims to improve data-driven decision support algorithms -->
+
+<!-- extract unstructured information from clinical records and social media postings to elucidate data patterns, trends, and relationships that can aid the discovery process in pharmacoepidemiology, clinical research, and public health monitoring and surveillance.
+
+improve to improve data-driven decision support algorithms ata science and analytics-driven decision-support. 
+
+health literacy, evidence-informed decision making, and health behaviors by monitoring how evidence and misinformation are taken up in different communities
+ -->
 
 <!-- His main research interests include Natural Language Processing and Machine Learning, with a focus on Social-Media Analysis, Computational Health Informatics, and Medical Image Analysis.   -->
 
@@ -23,12 +31,13 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- A data-driven personal website -->
 
 
-1. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2018-2020.
+1. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, Australia.
 2. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2021-2023.
 3. **Postgraduate Research Supplementary Scholarhsip**, University of Sydney, Australia, 2021.
-4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020.
+4. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2018-2020.
 5. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
 
+<!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
 <!-- **Collaboration** -->
 
 ## News
