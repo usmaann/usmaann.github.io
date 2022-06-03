@@ -42,6 +42,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**June-2022:** Invited to serve as a PC member @ICONIP 2022,
+
 **June-2022:** Invited to serve as a PC member for DSAI4RRS 2022 @KDD2022,
 
 **May-2022:** 1 full paper is accepted at IEEE Transactions on Artificial Intelligence
