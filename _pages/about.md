@@ -42,7 +42,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
-**June-2022:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 10 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+**June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
 
 **June-2022:** Invited to serve as a PC member @ICONIP 2022,
 
