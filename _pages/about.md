@@ -42,6 +42,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**June-2022:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 10 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+
 **June-2022:** Invited to serve as a PC member @ICONIP 2022,
 
 **June-2022:** Invited to serve as a PC member for DSAI4RRS 2022 @KDD2022,
@@ -72,7 +74,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **January-2022:** 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
 
-**Popular paper:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+<!-- **Popular paper:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 10 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
 <!-- -- Invited to serve as a PC member for ACL 2022 Workshop LT-EDI, -->
 
