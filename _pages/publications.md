@@ -43,7 +43,9 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
-(9) **Naseem, Usman**, Jinman Kim, Matloob Khushi, and Adam G. Dunn. "Robust Identification of Figurative Language in Personal Health Mentions on Twitter." IEEE Transactions on Artificial Intelligence 1, no. 01 (2022): 1-1.
+(10) **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "Hybrid Text Representation for Explainable Suicide Risk Identification on Social Media." IEEE Transactions on Computational Social Systems, (In press, 2022)
+
+(9) **Naseem, Usman**, Jinman Kim, Matloob Khushi, and Adam G. Dunn. "Robust Identification of Figurative Language in Personal Health Mentions on Twitter." IEEE Transactions on Artificial Intelligence, no. 01 (2022): 1-1.
 
 (8) **Naseem, Usman**, Adam G. Dunn, Matloob Khushi, and Jinman Kim. "Benchmarking for Biomedical Natural Language Processing Tasks with a Domain Specific ALBERT", BMC Bioinformatics (**IF=3.62**)
 
