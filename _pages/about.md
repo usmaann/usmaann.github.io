@@ -36,13 +36,14 @@ This is the front page of a website that is powered by the [academicpages templa
 3. **Postgraduate Research Supplementary Scholarhsip**, University of Sydney, Australia, 2021.
 4. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2018-2020.
 5. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
+6. **SIGIR 2022:** Student Volunteer Award
 
 <!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
 <!-- **Collaboration** -->
 
 ## News
 
-**June-2022:** 1 full paper is accepted at IEEE Transactions on Computational Social Systems
+**June-2022:** 2 full papers is accepted at IEEE Transactions on Computational Social Systems
 
 **June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
 
