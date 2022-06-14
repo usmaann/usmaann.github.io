@@ -43,6 +43,8 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
+(11)  **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "RHMD: A Real-World Dataset for Health Mention Classification on  Reddit." IEEE Transactions on Computational Social Systems, (In press, 2022)
+
 (10) **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "Hybrid Text Representation for Explainable Suicide Risk Identification on Social Media." IEEE Transactions on Computational Social Systems, (In press, 2022)
 
 (9) **Naseem, Usman**, Jinman Kim, Matloob Khushi, and Adam G. Dunn. "Robust Identification of Figurative Language in Personal Health Mentions on Twitter." IEEE Transactions on Artificial Intelligence, no. 01 (2022): 1-1.
