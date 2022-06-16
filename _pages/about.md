@@ -43,6 +43,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**June-2022:** Invited to serve as a PC/review committe member @EMNLP 2022,
+
 **June-2022:** 2 full papers is accepted at IEEE Transactions on Computational Social Systems
 
 **June-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
