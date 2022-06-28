@@ -11,7 +11,9 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Conference Papers**
 
-(14)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected]
+(15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected]
+
+(14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, pp. 110-115. 2022.
 
 (13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
 
@@ -43,30 +45,30 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Journal Papers**
 
-(12)  **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "RHMD: A Real-World Dataset for Health Mention Classification on  Reddit." IEEE Transactions on Computational Social Systems, (In press, 2022)
+(12)  **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "RHMD: A Real-World Dataset for Health Mention Classification on  Reddit." IEEE Transactions on Computational Social Systems, (In press, 2022) (**IF=4.74**)
 
-(11) Junaid Rashid,  Jungeun Kim, Amir Hussain, **Naseem, Usman**, and Sapna Juneja, "A Novel Multiple Kernel Fuzzy Topic Modeling Technique for Biomedical Data", BMC Bioinformatics, (In press, 2022) 
+(11) Junaid Rashid,  Jungeun Kim, Amir Hussain, **Naseem, Usman**, and Sapna Juneja, "A Novel Multiple Kernel Fuzzy Topic Modeling Technique for Biomedical Data", BMC Bioinformatics, (In press, 2022) (**IF=3.30**)
 
-(10) **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "Hybrid Text Representation for Explainable Suicide Risk Identification on Social Media." IEEE Transactions on Computational Social Systems, (In press, 2022)
+(10) **Naseem, Usman**, Matloob Khushi, Jinman Kim,  and Adam G. Dunn. "Hybrid Text Representation for Explainable Suicide Risk Identification on Social Media." IEEE Transactions on Computational Social Systems, (In press, 2022) (**IF=4.74**)
 
 (9) **Naseem, Usman**, Jinman Kim, Matloob Khushi, and Adam G. Dunn. "Robust Identification of Figurative Language in Personal Health Mentions on Twitter." IEEE Transactions on Artificial Intelligence, no. 01 (2022): 1-1.
 
-(8) **Naseem, Usman**, Adam G. Dunn, Matloob Khushi, and Jinman Kim. "Benchmarking for Biomedical Natural Language Processing Tasks with a Domain Specific ALBERT", BMC Bioinformatics (**IF=3.62**)
+(8) **Naseem, Usman**, Adam G. Dunn, Matloob Khushi, and Jinman Kim. "Benchmarking for Biomedical Natural Language Processing Tasks with a Domain Specific ALBERT", BMC Bioinformatics (**IF=3.30**)
 
-(7) **Naseem, Usman**, Matloob Khushi, and Jinman Kim. "Vision-Language Transformer for Interpretable Pathology Visual Question Answering" IEEE Journal of Biomedical and Health Informatics (J-BHI). (**IF=5.77**)
+(7) **Naseem, Usman**, Matloob Khushi, and Jinman Kim. "Vision-Language Transformer for Interpretable Pathology Visual Question Answering" IEEE Journal of Biomedical and Health Informatics (J-BHI). (**IF=7.07**)
 
-(6) Adhikari, Surabhi, Surendrabikram Thapa, **Usman Naseem**, Priyanka Singh, Huan Huo, Gnana Bharathy, and Mukesh Prasad. "Exploiting Linguistic Information from Nepali Transcripts for Early Detection of Alzheimer's Disease using Natural Language Processing and Machine Learning Techniques." International Journal of Human-Computer Studies (2021): 102761. (**IF=3.63**)
+(6) Adhikari, Surabhi, Surendrabikram Thapa, **Usman Naseem**, Priyanka Singh, Huan Huo, Gnana Bharathy, and Mukesh Prasad. "Exploiting Linguistic Information from Nepali Transcripts for Early Detection of Alzheimer's Disease using Natural Language Processing and Machine Learning Techniques." International Journal of Human-Computer Studies (2021): 102761. (**IF=4.86**)
 
-(5) **Naseem, Usman**, Imran Razzak, Shah Khalid Khan, and Mukesh Prasad. "A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models." Transactions on Asian and Low-Resource Language Information Processing 20, no. 5 (2021): 1-35. (**IF=1.41**)
+(5) **Naseem, Usman**, Imran Razzak, Shah Khalid Khan, and Mukesh Prasad. "A comprehensive survey on word representation models: From classical to state-of-the-art word representation language models." Transactions on Asian and Low-Resource Language Information Processing 20, no. 5 (2021): 1-35. (**IF=1.47**)
 
-(4) **Naseem, Usman**, Imran Razzak, Matloob Khushi, Peter W. Eklund, and Jinman Kim. "Covidsenti: A large-scale benchmark Twitter data set for COVID-19 sentiment analysis." IEEE Transactions on Computational Social Systems (2021). (**CiteScore=6.1**)
+(4) **Naseem, Usman**, Imran Razzak, Matloob Khushi, Peter W. Eklund, and Jinman Kim. "Covidsenti: A large-scale benchmark Twitter data set for COVID-19 sentiment analysis." IEEE Transactions on Computational Social Systems (2021). (**IF=4.74**)
 
-(3) Qazi, Atika, Chiranjib Bhowmik, Fayaz Hussain, Shuiqing Yang, **Usman Naseem**, Abayomi-Alli Adebayo, Abdu Gumaei, and Mabrook Al-Rakhami. "Analyzing the Public Opinion as a Guide for Renewable-Energy Status in Malaysia: A Case Study." IEEE Transactions on Engineering Management (2021). (**IF=6.14**)
+(3) Qazi, Atika, Chiranjib Bhowmik, Fayaz Hussain, Shuiqing Yang, **Usman Naseem**, Abayomi-Alli Adebayo, Abdu Gumaei, and Mabrook Al-Rakhami. "Analyzing the Public Opinion as a Guide for Renewable-Energy Status in Malaysia: A Case Study." IEEE Transactions on Engineering Management (2021). (**IF=8.70**)
 
-(2) **Naseem, Usman**, Imran Razzak, and Peter W. Eklund. "A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter." Multimedia Tools and Applications (2020): 1-28. (**IF=2.7**)
+(2) **Naseem, Usman**, Imran Razzak, and Peter W. Eklund. "A survey of pre-processing techniques to improve short-text quality: a case study on hate speech detection on twitter." Multimedia Tools and Applications (2020): 1-28. (**IF=2.57**)
 
 
-(1) **Naseem, Usman**, Imran Razzak, Katarzyna Musial, and Muhammad Imran. "Transformer based deep intelligent contextual embedding for twitter sentiment analysis." Future Generation Computer Systems 113 (2020): 58-69. (**IF=7.18**)
+(1) **Naseem, Usman**, Imran Razzak, Katarzyna Musial, and Muhammad Imran. "Transformer based deep intelligent contextual embedding for twitter sentiment analysis." Future Generation Computer Systems 113 (2020): 58-69. (**IF=7.30**)
 
 <!--  (**IF=7.18, CORE A, JCQ Q1**) -->
 <!-- {% if author.googlescholar %}
