@@ -43,13 +43,17 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**July-2022:** Invited as a speaker at [NLP Summit 2022](https://www.nlpsummit.org/) on the topic of “A pretrained language model for public health surveillance on social media”,
+
+**July-2022:** COVIDSenti paper has been ranked #1 for 11 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+
 **June-2022:** Invited to serve as a PC member @EMNLP 2022,
 
-**June-2022:** 2 full papers is accepted at IEEE Transactions on Computational Social Systems
+**June-2022:** 2 full papers are accepted at IEEE Transactions on Computational Social Systems
 
 **June-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
 
-**June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+<!-- **June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
 **June-2022:** Invited to serve as a PC member @ICONIP 2022,
 
