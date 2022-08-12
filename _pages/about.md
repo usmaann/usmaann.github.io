@@ -43,6 +43,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**August-2022:** Invited to serve as a PC member @AAAi 2022,
+
+**August-2022:** COVIDSenti paper has been ranked #1 for 12 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+
 **July-2022:** Invited as a speaker at [NLP Summit 2022](https://www.nlpsummit.org/) on the topic of “A pretrained language model for public health surveillance on social media”,
 
 **July-2022:** COVIDSenti paper has been ranked #1 for 11 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
