@@ -43,6 +43,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**August-2022:** 1 paper is accepted in COLING'22,
+
 **August-2022:** Invited to serve as a PC member @AAAi 2022,
 
 **August-2022:** COVIDSenti paper has been ranked #1 for 12 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
