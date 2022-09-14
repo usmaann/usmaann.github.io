@@ -43,7 +43,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
-**August-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society),
+**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society),
 
 **August-2022:** 1 paper is accepted in COLING'22,
 
