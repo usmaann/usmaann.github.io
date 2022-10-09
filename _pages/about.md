@@ -37,13 +37,17 @@ This is the front page of a website that is powered by the [academicpages templa
 4. **Scholarhsip**, Australain Government Research Training Program Scholarship, 2018-2020.
 5. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
 6. **SIGIR 2022:** Student Volunteer Award
+7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society 
+
 
 <!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
 <!-- **Collaboration** -->
 
 ## News
 
-**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society),
+<!-- **September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society), -->
+
+**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society) and (Web4Good) tracks,
 
 **August-2022:** 1 paper is accepted in COLING'22,
 
