@@ -57,9 +57,6 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
-<!-- **September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society), -->
-
-<!-- ${{\color{red} {Won\ 2022\ Andrew\ P.\ Sage\ BEST\ Transactions\ paper\ award\ by\ IEEE\ SMC\ Society}}}$ -->
 
 **October-2022:** One full paper is accepted at WSDM 2023
 
