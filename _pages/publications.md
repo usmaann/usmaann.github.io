@@ -11,6 +11,13 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 **Selected Conference Papers**
 
+
+(18) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023
+
+(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023
+
+(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022.
+
 (15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected]
 
 (14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, pp. 110-115. 2022.
