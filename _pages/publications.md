@@ -12,7 +12,7 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 **Selected Conference Papers**
 
 
-(18) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023
+(18) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023 (**CORE A+***)
 
 (17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023
 
