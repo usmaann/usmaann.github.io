@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
- # ${\color{red}{I\ am\ actively\ looking\ for\ tenure-track\ faculty\ positions}}$
+
+ #  ${\color{red}{I\ am\ actively\ looking\ for\ tenure-track\ faculty\ positions}}$
 
 
 Usman Naseem is expected to complete his Ph.D. by the end of 2022 from the [The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys).
@@ -59,10 +59,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+<!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
 **October-2022:** One full paper is accepted at WSDM 2023
 
-**October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award} by IEEE SMC Society
+**October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award by IEEE SMC Society
 
 **October-2022:** One paper is accepted in CASE at EMNLP 2023
 
