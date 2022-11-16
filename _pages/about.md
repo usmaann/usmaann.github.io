@@ -44,9 +44,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 1. **Andrew P. Sage Best Transactions paper 2022** award by IEEE SMC Society
 2. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, Australia.
-3. **scholarship**, Australain Government Research Training Program Scholarship, 2021-2023.
+3. **Scholarship**, Australain Government Research Training Program Scholarship, 2021-2023.
 4. **Postgraduate Research Supplementary scholarship**, University of Sydney, Australia, 2021 & 2022.
-5. **scholarship**, Australain Government Research Training Program Scholarship, 2018-2020.
+5. **Scholarship**, Australain Government Research Training Program Scholarship, 2018-2020.
 6. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
 7. **SIGIR 2022:** Student Volunteer Award
 
