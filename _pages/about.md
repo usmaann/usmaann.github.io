@@ -61,6 +61,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
+**November-2022:** 2 full papers accepted at AAAi'23
+
 **October-2022:** One full paper is accepted at WSDM 2023
 
 **October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award by IEEE SMC Society
