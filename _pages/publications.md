@@ -18,19 +18,19 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 
 (18) Hu, L., Liu, D., Zhang, Q., Ye, T., **Usman Naseem**, Lai, Z., “A Dynamics and Task Decoupled Reinforcement Learning Architecture for High-efficiency Dynamic Target Intercept” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A+***)
 
-(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023
+(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A**)
+ 
+(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A**)
 
-(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022.
+(15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected] (workshop in **CORE A+**)
 
-(15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected]
-
-(14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, pp. 110-115. 2022.
+(14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, 2022. (workshop in **CORE A+**)
 
 (13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
 
 (12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
 
-(11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021.
+(11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021. (workshop in **CORE A+**)
 
 (10) Jahan, Sadia, Md Rafiqul Islam, Khan Md Hasib, **Usman Naseem**, and Md Saiful Islam. "Active Learning with an Adaptive Classifier for Inaccessible Big Data Analysis." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
 
