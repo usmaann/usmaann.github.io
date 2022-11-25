@@ -48,7 +48,7 @@ This is the front page of a website that is powered by the [academicpages templa
 4. **Postgraduate Research Supplementary scholarship**, University of Sydney, Australia, 2021 & 2022.
 5. **Scholarship**, Australain Government Research Training Program Scholarship, 2018-2020.
 6. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
-7. **SIGIR 2022:** Student Volunteer Award
+7. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
