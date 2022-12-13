@@ -59,6 +59,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**December-2022:** Invited to serve as a PC member @ACL 2023,
+
 <!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
 **November-2022:** 2 full papers accepted at AAAi'23
