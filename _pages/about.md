@@ -64,6 +64,10 @@ This is the front page of a website that is powered by the [academicpages templa
 ## News
 
 
+**January-2023:**: One full paper is accepted @Webconf (WWW) 2023
+
+**January-2023:**: A tutorial is accepted @Webconf (WWW) 2023.
+
 **January-2023:**: Invited to serve as a AC @ACL 2023,
 
 **January-2023:** Selected to give a talk at the Rising Stars in AI Symposium 2023
