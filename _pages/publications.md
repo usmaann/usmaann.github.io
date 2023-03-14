@@ -12,34 +12,34 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 **Selected Conference Papers**
 
 
-(20) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023  (**CORE A+***)
+(20) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023  (**CORE A***)
 
-Ye, T; Hu, L; Zhang, Q; **Usman Naseem**, Liu, D; "Show Me The Best Outfit for A Certain Scene: A Scene-aware Fashion Recommender System" 2023 Proceedings of the Web Conference 2023 (Webconf), 2023 [submission, selected] (**CORE A+***) 
+Ye, T; Hu, L; Zhang, Q; **Usman Naseem**, Liu, D; "Show Me The Best Outfit for A Certain Scene: A Scene-aware Fashion Recommender System" 2023 Proceedings of the Web Conference 2023 (Webconf), 2023 [submission, selected] (**CORE A***) 
 
 
-(19) Liu, D., Hu, L., Zhang, Q., **Usman Naseem**, Lai, Z., “Self-supervised Learning Temporal Causalities behind Human Actions for Multilevel Skeleton Forgery Detection” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A+***)
+(19) Liu, D., Hu, L., Zhang, Q., **Usman Naseem**, Lai, Z., “Self-supervised Learning Temporal Causalities behind Human Actions for Multilevel Skeleton Forgery Detection” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
 
-(18) Hu, L., Liu, D., Zhang, Q., Ye, T., **Usman Naseem**, Lai, Z., “A Dynamics and Task Decoupled Reinforcement Learning Architecture for High-efficiency Dynamic Target Intercept” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A+***)
+(18) Hu, L., Liu, D., Zhang, Q., Ye, T., **Usman Naseem**, Lai, Z., “A Dynamics and Task Decoupled Reinforcement Learning Architecture for High-efficiency Dynamic Target Intercept” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
 
-(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A**)
+(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A***)
  
-(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A**)
+(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A***)
 
-(15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected] (workshop in **CORE A+**)
+(15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected] (workshop in **CORE A***)
 
-(14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, 2022. (workshop in **CORE A+**)
+(14) **Naseem, Usman**, Ajay Bandi, Shaina Raza, Junaid Rashid, and Bharathi Raja Chakravarthi. "Incorporating Medical Knowledge to Transformer-based Language Models for Medical Dialogue Generation." ACL 2022, In Proceedings of the 21st Workshop on Biomedical Language Processing, 2022. (workshop in **CORE A***)
 
-(13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
+(13) **Naseem, Usman**,  Adam G. Dunn, Jinman Kim, and Matloob Khushi, "Early identification of depression severity levels on Reddit using ordinal classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A***)
 
-(12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A+***)
+(12) **Naseem, Usman**,  Jinman Kim, Matloob Khushi, and Adam G. Dunn, "Identification of disease or symptom terms in Reddit to improve health mention classification," 2022 Proceedings of the Web Conference 2022 [submission, selected, full paper]  (**CORE A***)
 
-(11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021. (workshop in **CORE A+**)
+(11) Raza, Shaina, Syed Raza Bashir, Dora D. Liu, and **Usman Naseem**. "Balanced News Neural Network for a News Recommender System." In 2021 International Conference on Data Mining Workshops (ICDMW), pp. 65-74. IEEE, 2021. (workshop in **CORE A***)
 
 (10) Jahan, Sadia, Md Rafiqul Islam, Khan Md Hasib, **Usman Naseem**, and Md Saiful Islam. "Active Learning with an Adaptive Classifier for Inaccessible Big Data Analysis." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
 
-(9) **Naseem, Usman**, Matloob Khushi, Jinman Kim and Adam Dunn, "Classifying vaccine sentiment tweets by modelling domain-specific representation and commonsense knowledge into context-aware attentive GRU," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-8,  (**CORE A**)
+(9) **Naseem, Usman**, Matloob Khushi, Jinman Kim and Adam Dunn, "Classifying vaccine sentiment tweets by modelling domain-specific representation and commonsense knowledge into context-aware attentive GRU," 2021 International Joint Conference on Neural Networks (IJCNN), 2021, pp. 1-8,  (**CORE A***)
 
-(8) **Naseem, Usman**, Matloob Khushi, Vinay Reddy, Sakthivel Rajendran, Imran Razzak, and Jinman Kim. "Bioalbert: A simple and effective pre-trained language model for biomedical named entity recognition." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A**)
+(8) **Naseem, Usman**, Matloob Khushi, Vinay Reddy, Sakthivel Rajendran, Imran Razzak, and Jinman Kim. "Bioalbert: A simple and effective pre-trained language model for biomedical named entity recognition." In 2021 International Joint Conference on Neural Networks (IJCNN), pp. 1-7. IEEE, 2021. (**CORE A***)
 
 (7) Khushi, Matloob, **Usman Naseem**, Jonathan Du, Anis Khan, and Simon K. Poon. "Data mining encode data predicts a significant role of sina3 in human liver cancer." In International Conference on Neural Information Processing, pp. 15-25. Springer, Cham, 2020. (**CORE A**)
 
