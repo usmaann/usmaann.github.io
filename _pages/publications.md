@@ -23,7 +23,7 @@ Ye, T; Hu, L; Zhang, Q; **Usman Naseem**, Liu, D; "Show Me The Best Outfit for A
 
 (17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A***)
  
-(16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A***)
+<!-- (16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A***) -->
 
 (15)  **Naseem, Usman**, Byoung Chan Lee, Matloob Khushi, Jinman Kim, Adam G. Dunn, " Benchmarking for Public Health Surveillance tasks on Social Media with a Domain-Specific Pretrained Language Model," ACL 2022 NLP Power Workshop [submission, selected] (workshop in **CORE A***)
 
