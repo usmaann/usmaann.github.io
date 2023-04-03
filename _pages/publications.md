@@ -12,16 +12,16 @@ Please visit my [Google Scholar](https://scholar.google.com.au/citations?user=61
 **Selected Conference Papers**
 
 
-(20) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023  (**CORE A***)
+(19) **Usman Naseem**, J Kim, M Khushi, AG Dunn (2023) A multimodal framework for the identification of vaccine critical memes on Twitter, ACM International Conference on Web Search and Data Mining (WSDM), 2023  (**CORE A***)
 
 Ye, T; Hu, L; Zhang, Q; **Usman Naseem**, Liu, D; "Show Me The Best Outfit for A Certain Scene: A Scene-aware Fashion Recommender System" 2023 Proceedings of the Web Conference 2023 (Webconf), 2023 [submission, selected] (**CORE A***) 
 
 
-(19) Liu, D., Hu, L., Zhang, Q., **Usman Naseem**, Lai, Z., “Self-supervised Learning Temporal Causalities behind Human Actions for Multilevel Skeleton Forgery Detection” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
+(18) Liu, D., Hu, L., Zhang, Q., **Usman Naseem**, Lai, Z., “Self-supervised Learning Temporal Causalities behind Human Actions for Multilevel Skeleton Forgery Detection” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
 
-(18) Hu, L., Liu, D., Zhang, Q., Ye, T., **Usman Naseem**, Lai, Z., “A Dynamics and Task Decoupled Reinforcement Learning Architecture for High-efficiency Dynamic Target Intercept” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
+(17) Hu, L., Liu, D., Zhang, Q., Ye, T., **Usman Naseem**, Lai, Z., “A Dynamics and Task Decoupled Reinforcement Learning Architecture for High-efficiency Dynamic Target Intercept” AAAI Conference on Artificial Intelligence (AAAi) 2023 (**CORE A***)
 
-(17) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A***)
+(16) S Thapa, A. Sah, F. Jafri, **Usman Naseem,** I. Razzak, "A Multi-Modal Dataset for Hate Speech Detection on Social Media: Case-study of Russia-Ukraine Conflict", CASE@EMNLP 2023  (workshop in **CORE A***)
  
 <!-- (16) Raza, Shaina, Syed Raza Bashir, and **Usman Naseem**. "Accuracy meets Diversity in a News Recommender System." Proceedings of the 29th International Conference on Computational Linguistics. 2022. (**CORE A***) -->
 
