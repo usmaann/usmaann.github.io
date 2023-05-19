@@ -16,10 +16,16 @@ redirect_from:
 <!-- Usman Naseem is expected to complete his Ph.D. by the end of 2022 from the [The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys).
  -->
 
-Usman's research interest lies in natural language processing (NLP), specifically in designing computational models for language representation to understand human language and communicate with humans. Prior to persuading his research in NLP, he worked in leading ICT companies, including Nokia and Alcatel-Lucent, for over 10 years.
+<!-- Usman's research interest lies in natural language processing (NLP), specifically in designing computational models for language representation to understand human language and communicate with humans. Prior to persuading his research in NLP, he worked in leading ICT companies, including Nokia and Alcatel-Lucent, for over 10 years. -->
 
 
-His recent works on NLP are published in highly impactful venues in NLP, including ACL, EMNLP, COLING, WSDM and Webconf. He also served as a session chair for NLP at ICONIP and a program committee member for several top-tier venues, including ACL, EMNLP, NAACL, COLING, Webconf, and AAAi. His recent works on NLP attracted the attention of the World Health Orgnisation and several famous research media and have been deployed in the industry as a tool. In particular, the adoption of his NLP tools during his time as a Research Associate at the Telehealth andTechnology Centre, Nepean Hospital, has led to a better understanding of dialysis patient sentiments, and this work was awarded the Nepean BlueMountains Local Health District (NBMLHD) Board Chair's Quality Award in Research and Innovation in 2021. Recently, he won the Best Transactions Paper Award by IEEE SMS Scoeity.
+<!-- His recent works on NLP are published in highly impactful venues in NLP, including ACL, EMNLP, COLING, WSDM and Webconf. He also served as a session chair for NLP at ICONIP and a program committee member for several top-tier venues, including ACL, EMNLP, NAACL, COLING, Webconf, and AAAi. His recent works on NLP attracted the attention of the World Health Orgnisation and several famous research media and have been deployed in the industry as a tool. In particular, the adoption of his NLP tools during his time as a Research Associate at the Telehealth andTechnology Centre, Nepean Hospital, has led to a better understanding of dialysis patient sentiments, and this work was awarded the Nepean BlueMountains Local Health District (NBMLHD) Board Chair's Quality Award in Research and Innovation in 2021. Recently, he won the Best Transactions Paper Award by IEEE SMS Scoeity. -->
+
+
+Usman's research interests lie in Computational Social Science and Natural Language Processing, focusing on understanding human communication in social contexts and developing socially aware language technologies. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.
+
+He publishes and serves as a program committee member in renowned conferences like ACL, Webconf, WSDM, SIGIR, AAAI, and ICWSM. Usman's work in NLP has attracted attention from the World Health Organization and earned him the Nepean Blue Mountains Local Health District (NBMLHD) Board Chair's Quality Award in 2021. He also received the prestigious IEEE Best Transactions Paper Award in 2022.
+
 
 
 
@@ -53,6 +59,8 @@ This is the front page of a website that is powered by the [academicpages templa
 5. **Scholarship**, Australain Government Research Training Program Scholarship, 2018-2020.
 6. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
 7. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
+8. **Rising Star in AI, KAUST AI Initiative**
+9. **DAAD AINet Fellowship 2023**
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
@@ -63,8 +71,21 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**May-2023:** Delivered a tutorial @ Webconf 2023
 
-**January-2023:**: One full paper is accepted @Webconf (WWW) 2023
+**May-2023:** 1 paper is accepted @ TNNLS 2023
+
+**April-2023:** 1 papers is accepted @ CVPR 2023
+
+**April-2023:** 2 papers are accepted @ ICWSM 2023
+
+**March-2023:** 1 paper is accepted @ Neural Netorks
+
+**March-2023:** 1 paper is accepted @ SIGIR 2023
+
+**Feburary-2023:**: 5 papers accepted @Webconf (WWW) 2023
+
+<!-- **January-2023:**: One full paper is accepted @Webconf (WWW) 2023 -->
 
 **January-2023:**: A tutorial is accepted @Webconf (WWW) 2023.
 
