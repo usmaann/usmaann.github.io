@@ -71,13 +71,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**June-2023:** 3 workshop papers are accepted @ ACL 2023
+
 **May-2023:** Delivered a tutorial @ Webconf 2023
 
 **May-2023:** 1 paper is accepted @ TNNLS 2023
 
-**April-2023:** 1 papers is accepted @ CVPR 2023
+**April-2023:** 1 workshop paper is accepted @ CVPR 2023
 
-**April-2023:** 2 papers are accepted @ ICWSM 2023
+**April-2023:** 2 workshop papers are accepted @ ICWSM 2023 
 
 **March-2023:** 1 paper is accepted @ Neural Netorks
 
