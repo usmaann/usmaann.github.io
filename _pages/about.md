@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- #  ${\color{red}{I\ am\ actively\ looking\ for\ faculty\ positions}}$
+<!--  #  ${\color{red}{I\ am\ actively\ looking\ for\ faculty\ positions}}$
 
 <!--  #  ${\color{red}{I\ am\ actively\ looking\ for\ tenure-track\ faculty\ positions}}$ -->
 
@@ -71,7 +71,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
-**June-2023:** 3 workshop papers are accepted @ ACL 2023
+**June-2023:** Invited to serve as an AC @ EMNLP 2023,
+
+**June-2023:** 3  papers are accepted @ ACL 2023
 
 **May-2023:** Delivered a tutorial @ Webconf 2023
 
@@ -79,7 +81,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **April-2023:** 1 workshop paper is accepted @ CVPR 2023
 
-**April-2023:** 2 workshop papers are accepted @ ICWSM 2023 
+**April-2023:** 2  papers are accepted @ ICWSM 2023 
 
 **March-2023:** 1 paper is accepted @ Neural Netorks
 
