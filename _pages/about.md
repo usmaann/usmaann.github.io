@@ -23,7 +23,7 @@ redirect_from:
 
 <!-- Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia. Usman's research focusses on Natural Language Processing, aims to develop innovative representation learning techniques that aids machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.-->
 
-Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia. 
+<!-- Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia.--> 
 
 Usman's research focuses on Natural Language Processing and aims to develop innovative representation learning techniques that aid machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.
 
