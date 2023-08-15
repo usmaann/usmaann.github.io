@@ -21,8 +21,14 @@ redirect_from:
 
 <!-- His recent works on NLP are published in highly impactful venues in NLP, including ACL, EMNLP, COLING, WSDM and Webconf. He also served as a session chair for NLP at ICONIP and a program committee member for several top-tier venues, including ACL, EMNLP, NAACL, COLING, Webconf, and AAAi. His recent works on NLP attracted the attention of the World Health Orgnisation and several famous research media and have been deployed in the industry as a tool. In particular, the adoption of his NLP tools during his time as a Research Associate at the Telehealth andTechnology Centre, Nepean Hospital, has led to a better understanding of dialysis patient sentiments, and this work was awarded the Nepean BlueMountains Local Health District (NBMLHD) Board Chair's Quality Award in Research and Innovation in 2021. Recently, he won the Best Transactions Paper Award by IEEE SMS Scoeity. -->
 
+<!-- Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia. Usman's research focusses on Natural Language Processing, aims to develop innovative representation learning techniques that aids machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.-->
 
-Usman's research interests lie in Computational Social Science and Natural Language Processing, focusing on understanding human communication in social contexts and developing socially aware language technologies. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.
+Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia. 
+
+Usman's research focuses on Natural Language Processing and aims to develop innovative representation learning techniques that aid machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.
+
+
+<!-- Usman's research interests lie in Computational Social Science and Natural Language Processing, focusing on understanding human communication in social contexts and developing socially aware language technologies. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.-->
 
 He publishes and serves as a program committee member in renowned conferences like ACL, Webconf, WSDM, SIGIR, AAAI, and ICWSM. Usman's work in NLP has attracted attention from the World Health Organization and earned him the Nepean Blue Mountains Local Health District (NBMLHD) Board Chair's Quality Award in 2021. He also received the prestigious IEEE Best Transactions Paper Award in 2022.
 
