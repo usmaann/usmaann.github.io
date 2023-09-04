@@ -13,6 +13,9 @@ redirect_from:
 <!--  #  ${\color{red}{I\ am\ actively\ looking\ for\ tenure-track\ faculty\ positions}}$ -->
 
 
+ ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$
+
+
 <!-- Usman Naseem is expected to complete his Ph.D. by the end of 2022 from the [The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys).
  -->
 
@@ -67,6 +70,7 @@ This is the front page of a website that is powered by the [academicpages templa
 7. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
 8. **Rising Star in AI, KAUST AI Initiative**
 9. **DAAD AINet Fellowship 2023**
+10. **Research Grant: $150,000 to develop new tools using LLM**
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
@@ -76,6 +80,13 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- **Collaboration** -->
 
 ## News
+
+
+**September-2023:** Received a research grant of $150,000.  
+
+**August-2023:** Invited to serve as an SPC @ ICWSM 2024,
+
+**August-2023:** Invited to serve as an PC @ Webconf 2024,
 
 **June-2023:** Invited to serve as an AC @ EMNLP 2023,
 
