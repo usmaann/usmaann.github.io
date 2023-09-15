@@ -15,6 +15,13 @@ redirect_from:
 
  ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$
 
+<!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
+
+Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia.  He works on Natural Language Processing (NLP), with a particular focus on designing innovative representation learning techniques that aid machines to understand and generate human language at scale. With several years of experience in industry and academia, Usman is known for his innovative approaches that bridge the gap between theoretical NLP concepts and practical applications. 
+
+During the past few years, he has published over 100 publications in highly impactful venues, including ACL, EMNLP, COLING, WSDM, Webconf, SIGIR and IEEE Transactions and served on the Program Committee of several NLP venues, including as Area Chair. He is a recipient of several national and international awards, grants and fellowships, including the prestigious IEEE Best Transactions Paper Award in 2022 and the DAAD AINet fellowship in 2023.
+
+
 
 <!-- Usman Naseem is expected to complete his Ph.D. by the end of 2022 from the [The University of Sydney, Australia](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), under the supervision of [Prof. Jinman Kim](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/jinman-kim.html), [Prof. Adam G. Dunn](https://www.sydney.edu.au/medicine-health/about/our-people/academic-staff/adam-dunn.html), and [Dr. Matloob Khushi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/matloob-khushi.html).  Usman obtained his Masters in Analytics (Research) from the [University of Technology Sydney, Australia](https://www.uts.edu.au/about/faculty-engineering-and-information-technology/computer-science), under the supervision of [Prof. Longbing Cao](https://profiles.uts.edu.au/Longbing.Cao) and [Prof. Kaska Musial](https://profiles.uts.edu.au/Katarzyna.Musial-Gabrys).
  -->
@@ -28,12 +35,12 @@ redirect_from:
 
 <!-- Usman Naseem is a Lecturer at the College of the School of Science and Engineering, James Cook University, Australia.--> 
 
-Usman's research focuses on Natural Language Processing and aims to develop innovative representation learning techniques that aid machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.
+<!-- Usman's research focuses on Natural Language Processing and aims to develop innovative representation learning techniques that aid machines to understand and generate human language at scale. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.-->
 
 
 <!-- Usman's research interests lie in Computational Social Science and Natural Language Processing, focusing on understanding human communication in social contexts and developing socially aware language technologies. With over 10 years of industry experience in leading ICT companies like Nokia and Alcatel-Lucent, he brings valuable insights to his research.-->
 
-He publishes and serves as a program committee member in renowned conferences like ACL, Webconf, WSDM, SIGIR, AAAI, and ICWSM. Usman's work in NLP has attracted attention from the World Health Organization and earned him the Nepean Blue Mountains Local Health District (NBMLHD) Board Chair's Quality Award in 2021. He also received the prestigious IEEE Best Transactions Paper Award in 2022.
+<!-- He publishes and serves as a program committee member in renowned conferences like ACL, Webconf, WSDM, SIGIR, AAAI, and ICWSM. Usman's work in NLP has attracted attention from the World Health Organization and earned him the Nepean Blue Mountains Local Health District (NBMLHD) Board Chair's Quality Award in 2021. He also received the prestigious IEEE Best Transactions Paper Award in 2022.-->
 
 
 
