@@ -78,6 +78,7 @@ This is the front page of a website that is powered by the [academicpages templa
 8. **Rising Star in AI, KAUST AI Initiative**
 9. **DAAD AINet Fellowship 2023**
 10. **Research Grant: $150,000 to develop new tools using LLM**
+11. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
@@ -88,6 +89,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**October-2023:** 2  papers are accepted @ EMNLP 2023
 
 **September-2023:** Received a research grant of $150,000.  
 
