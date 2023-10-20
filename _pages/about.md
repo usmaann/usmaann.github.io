@@ -89,6 +89,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+
+**October-2023:** 1 paper accepted @ WSDM 2024 (18% acceptance rate)
+
 **October-2023:** 2  papers are accepted @ EMNLP 2023
 
 **September-2023:** Received a research grant of $150,000.  
