@@ -94,7 +94,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **October-2023:** 8 papers (EMNLP findings x3, ArabicNLP x3, BLP x2)   are accepted @ EMNLP 2023
 
-**September-2023:** 1  paper accepted SocialNLP@ AACL 2023
+**September-2023:** 3 papers (1x Social NLP, 1x FinNLP, 1x WIES) are accepted @ AACL 2023
 
 **September-2023:** Received a research grant of $150,000.  
 
