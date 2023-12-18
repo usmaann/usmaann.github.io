@@ -13,7 +13,7 @@ redirect_from:
 <!--  #  ${\color{red}{I\ am\ actively\ looking\ for\ tenure-track\ faculty\ positions}}$ -->
 
 
- ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$
+<!--  # ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$$ -->
 
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
@@ -79,6 +79,7 @@ This is the front page of a website that is powered by the [academicpages templa
 9. **DAAD AINet Fellowship 2023**
 10. **Research Grant: $150,000 to develop new tools using LLM**
 11. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
+12. **Best Paper Award at EMNLP 2023 BLP workshop**
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
@@ -89,6 +90,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**December-2023** Received a best paper award at EMNLP-2023 BLP workshop. Congrats to Hari and Suren.
 
 **October-2023:** 1 paper accepted @ WSDM 2024 (18% acceptance rate)
 
