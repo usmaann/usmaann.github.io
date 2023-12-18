@@ -92,6 +92,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **December-2023** Received a best paper award at EMNLP-2023 BLP workshop. Congrats to Hari and Suren.
 
+**December-2023** Ogranising a workshop on Multimodal Content Analysis at Webconf-2024 see details [here](https://sites.google.com/view/mm4sg)
+
 **October-2023:** 1 paper accepted @ WSDM 2024 (18% acceptance rate)
 
 **October-2023:** 8 papers (EMNLP findings x3, ArabicNLP x3, BLP x2)   are accepted @ EMNLP 2023
