@@ -17,9 +17,12 @@ redirect_from:
 
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
-Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia.  He works on Natural Language Processing (NLP), with a particular focus on designing innovative representation learning techniques that aid machines to understand and generate human language at scale. With several years of experience in industry and academia, Usman is known for his innovative approaches that bridge the gap between theoretical NLP concepts and practical applications. 
+Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia, holding a PhD from the University of Sydney, Australia. With over 10 years of industry experience, he previously served as a research fellow at the University of Sydney and the University of South Australia. His research focuses on the intersection of machine learning and natural language processing, particularly in language modeling and the design of innovative representation learning techniques that enable machines to understand and generate human language at scale.
 
-During the past few years, he has published over 100 publications in highly impactful venues, including ACL, EMNLP, COLING, WSDM, Webconf, SIGIR and IEEE Transactions and served on the Program Committee of several NLP venues, including as Area Chair. He is a recipient of several national and international awards, grants and fellowships, including the prestigious IEEE Best Transactions Paper Award in 2022 and the DAAD AINet fellowship in 2023.
+<!--  #He works on Natural Language Processing (NLP), with a particular focus on designing innovative representation learning techniques that aid machines to understand and generate human language at scale. With several years of experience in industry and academia, Usman is known for his innovative approaches that bridge the gap between theoretical NLP concepts and practical applications. -->
+
+
+During the past few years, he has published over 100 articles in highly impactful venues, including ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, and IEEE Transactions. He has also served on the Program Committee of several NLP conferences, including as an Area Chair. Usman Naseem is a recipient of several national and international awards, grants, and fellowships, including the prestigious IEEE Best Transactions Paper Award in 2022, the DAAD AINet fellowship in 2023, and the Best Paper Award at the EMNLP BLP workshop in 2023.
 
 
 
