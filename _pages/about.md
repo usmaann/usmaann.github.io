@@ -16,14 +16,35 @@ redirect_from:
 
 <!--  # ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$$ -->
 
+   ${\color{red}{Hiring:\ Master\ (Research)\ and\ PhD\ students\ !\ Get\ in\ touch\ if \ you \ are\ intrested\}}$ 
+
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
-Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia, holding a PhD from the University of Sydney, Australia. With over 10 years of industry experience, he previously served as a research fellow at the University of Sydney and the University of South Australia. His research focuses on the intersection of machine learning and natural language processing, particularly in language modeling and the design of innovative representation learning techniques that enable machines to understand and generate human language at scale.
+
+I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
+
+My broad research interests includes natural language processing and societal computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications:
+
+**1) Mining Online Health Information:** Mental Health and Health Mention Classification.
+
+**2) Cyber Informatics:** Hate speech, Abusive content, Fake news, Propaganda, Rumors, and Misinformation detection.
+
+**3) Online Opinion and Sarcasm Mining:** Sentiment analysis, Irony, and Sarcasm detection.
+
+**4) Responsible NLP for low-resource languages**: Fariness and Privacy for low-resource languages
+
+I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023.
+
+
+
+
+
+<!-- Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia, holding a PhD from the University of Sydney, Australia. With over 10 years of industry experience, he previously served as a research fellow at the University of Sydney and the University of South Australia. His research focuses on the intersection of machine learning and natural language processing, particularly in language modeling and the design of innovative representation learning techniques that enable machines to understand and generate human language at scale.-->
 
 <!--  #He works on Natural Language Processing (NLP), with a particular focus on designing innovative representation learning techniques that aid machines to understand and generate human language at scale. With several years of experience in industry and academia, Usman is known for his innovative approaches that bridge the gap between theoretical NLP concepts and practical applications. -->
 
 
-During the past few years, he has published over 100 articles in highly impactful venues, including ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, and IEEE Transactions. He has also served on the Program Committee of several NLP conferences, including as an Area Chair. Usman Naseem is a recipient of several national and international awards, grants, and fellowships, including the prestigious IEEE Best Transactions Paper Award in 2022, the DAAD AINet fellowship in 2023, and the Best Paper Award at the EMNLP BLP workshop in 2023.
+<!--During the past few years, he has published over 100 articles in highly impactful venues, including ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, and IEEE Transactions. He has also served on the Program Committee of several NLP conferences, including as an Area Chair. Usman Naseem is a recipient of several national and international awards, grants, and fellowships, including the prestigious IEEE Best Transactions Paper Award in 2022, the DAAD AINet fellowship in 2023, and the Best Paper Award at the EMNLP BLP workshop in 2023.-->
 
 
 
