@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Usman Naseem"
 title_separator          : "-"
 name                     : &name "Usman Naseem"
-description              : &description "Lecturer (~Asst. Prof.) @ Macquarie University, Australia"
+description              : &description "Lecturer (~Asst. Prof.)  Macquarie University, Australia"
 url                      : https://usmaann.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "usmaann/https://usmaann.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Usman Naseem"
   avatar           : "Usman_N_Pic.png"
-  bio              : "Lecturer (~Asst. Prof.) @ Macquarie University, Australia"
+  bio              : "Lecturer (~Asst. Prof.)  Macquarie University, Australia"
   location         : "Sydney, Australia"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
