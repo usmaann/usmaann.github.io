@@ -16,14 +16,14 @@ redirect_from:
 
 <!--  # ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$$ -->
 
-   ${\color{red}{Hiring:\ Master\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$ 
+   ${\color{red}{Looking\ for\ motivated \ MS\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$ 
 
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
 
 I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
 
-My broad research interests includes natural language processing and societal computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications:
+My broad research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications:
 
 **1) Mining Online Health Information:** Mental Health and Health Mention Classification.
 
@@ -265,7 +265,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- -- Our COVIDSenti paper has been ranked as the most popular paper for conitnous 9 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
-For more details please see [publications page](https://usmaann.github.io//publications/)
+Please visit my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=61Ou1P8AAAAJ&view_op=list_works&sortby=pubdate) page for a detailed list of my publications, including citations count.
+
+<!--For more details please see [publications page](https://usmaann.github.io//publications/)-->
 
 ## Contact
 
