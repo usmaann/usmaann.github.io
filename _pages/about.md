@@ -133,11 +133,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **September-2023:** Received a research grant of $150,000.  
 
-**August-2023:** Invited to serve as an SPC @ ICWSM 2024,
+<!--**August-2023:** Invited to serve as an SPC @ ICWSM 2024,-->
 
-**August-2023:** Invited to serve as an PC @ Webconf 2024,
+<!--**August-2023:** Invited to serve as an PC @ Webconf 2024,-->
 
-**June-2023:** Invited to serve as an AC @ EMNLP 2023,
+<!--**June-2023:** Invited to serve as an AC @ EMNLP 2023,-->
 
 **June-2023:** 3  papers are accepted @ ACL 2023
 
@@ -157,15 +157,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!-- **January-2023:**: One full paper is accepted @Webconf (WWW) 2023 -->
 
-**January-2023:**: A tutorial is accepted @Webconf (WWW) 2023.
+<!--**January-2023:**: A tutorial is accepted @Webconf (WWW) 2023.-->
 
-**January-2023:**: Invited to serve as a AC @ACL 2023,
+<!--**January-2023:**: Invited to serve as a AC @ACL 2023,-->
 
 **January-2023:** Selected to give a talk at the Rising Stars in AI Symposium 2023
 
-**January-2023:**: Invited to serve as a PC member @SIGIR 2023,
+<!--**January-2023:**: Invited to serve as a PC member @SIGIR 2023,-->
 
-**January-2023:**: Invited to serve as a PC member @MICCAI 2023,
+<!--**January-2023:**: Invited to serve as a PC member @MICCAI 2023,-->
 
 **January-2023:** 2 full papers accepted at AAAi'23
 
