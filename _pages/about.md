@@ -16,7 +16,7 @@ redirect_from:
 
 <!--  # ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$$ -->
 
-   ${\color{red}{Hiring:\ Master\ (Research)\ and\ PhD\ students\ !\ Get\ in\ touch\ if \ you \ are\ intrested\}}$ 
+   ${\color{red}{Hiring:\ Master\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$ 
 
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
@@ -115,6 +115,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**Feburary-2024** 2 papers accepted at Webconf (1x Main track and 1xWeb4Good track). 
+
+**Feburary-2024** Joined Macquarie University as a lecturer (~Assistant Prof).
+
 **December-2023** Received a best paper award at EMNLP-2023 BLP workshop. Congrats to Hari and Suren.
 
 **December-2023** Ogranising a workshop on Multimodal Content Analysis at Webconf-2024 see details [here](https://sites.google.com/view/mm4sg)
@@ -161,35 +165,41 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **January-2023:**: Invited to serve as a PC member @MICCAI 2023,
 
-<!-- **December-2022:** Selected to give a talk at the Rising Stars in AI Symposium 2023 -->
+**January-2023:** 2 full papers accepted at AAAi'23
+
+**January-2023:** One full paper is accepted at WSDM 2023
+
+
 
 <!-- **December-2022:** Selected to give a talk at the Rising Stars in AI Symposium 2023 -->
 
-**December-2022:** Invited to serve as a PC member @ICWSM 2023,
+<!-- **December-2022:** Selected to give a talk at the Rising Stars in AI Symposium 2023 -->
+
+<!--**December-2022:** Invited to serve as a PC member @ICWSM 2023,-->
 
 <!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
-**November-2022:** 2 full papers accepted at AAAi'23
+<!--**November-2022:** 2 full papers accepted at AAAi'23 -->
 
-**October-2022:** One full paper is accepted at WSDM 2023
+<!--**October-2022:** One full paper is accepted at WSDM 2023 -->
 
-**October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award by IEEE SMC Society
+<!--**October-2022:** Won Andrew P. Sage BEST Transactions 2022 paper award by IEEE SMC Society-->
 
-**October-2022:** One paper is accepted in CASE at EMNLP 2023
+<!--**October-2022:** One paper is accepted in CASE at EMNLP 2023-->
 
-**October-2022:** Invited to serve as a session chair at DSAA 2022
+<!--**October-2022:** Invited to serve as a session chair at DSAA 2022-->
 
-**October-2022:** Delivered a invited talk at [NLP Summit 2022](https://www.nlpsummit.org/)  on Language models for Public Health Surveillance  (link coming soon)
+<!--**October-2022:** Delivered a invited talk at [NLP Summit 2022](https://www.nlpsummit.org/)  on Language models for Public Health Surveillance  (link coming soon)-->
 
 <!-- **October-2022:** Won ${\color{red}{Andrew\ P.\ Sage\ BEST\ Transactions\ 2022\ paper\ award} by\ IEEE\ SMC\ Society}$ -->
 
-**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society) and (Web4Good) tracks,
+<!--**September-2022:** Invited to serve as a PC member @Webconf 2022 (Web and Society) and (Web4Good) tracks,-->
 
-**August-2022:** 1 paper is accepted in COLING'22,
+<!--**August-2022:** 1 paper is accepted in COLING'22,-->
 
-**August-2022:** Invited to serve as a PC member @AAAi 2022,
+<!--**August-2022:** Invited to serve as a PC member @AAAi 2022,-->
 
-**August-2022:** COVIDSenti paper has been ranked #1 for 12 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!
+<!--**August-2022:** COVIDSenti paper has been ranked #1 for 12 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details!-->
 
 <!-- **July-2022:** Invited as a speaker at [NLP Summit 2022](https://www.nlpsummit.org/) on the topic of “A pretrained language model for public health surveillance on social media”, -->
 
@@ -199,43 +209,43 @@ This is the front page of a website that is powered by the [academicpages templa
  -->
 <!-- **June-2022:** Invited to serve as a PC member @EMNLP 2022, -->
 
-**June-2022:** 2 full papers are accepted at IEEE Transactions on Computational Social Systems
+<!--**June-2022:** 2 full papers are accepted at IEEE Transactions on Computational Social Systems-->
 
-**June-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
+<!--**June-2022:** 1 full paper is accepted in the BMC Bioinformatics journal-->
 
 <!-- **June-2022:** COVIDSenti paper has been ranked #1 for 10 consecutive months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
-**June-2022:** Invited to serve as a PC member @ICONIP 2022,
+<!--**June-2022:** Invited to serve as a PC member @ICONIP 2022,-->
 
 <!-- **June-2022:** Invited to serve as a PC member for DSAI4RRS 2022 @KDD2022, -->
 
-**May-2022:**  Invited to serve as a PC member @COLING 2022,
+<!--**May-2022:**  Invited to serve as a PC member @COLING 2022,-->
 
-**May-2022:** 1 full paper is accepted at IEEE Transactions on Artificial Intelligence
+<!--**May-2022:** 1 full paper is accepted at IEEE Transactions on Artificial Intelligence-->
 
 <!-- **May-2022:** Invited to serve as a PC member for ICWSM 2023 -->
 
 <!-- **March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022, -->
 
-**April-2022:** 1 paper accepted at the ACL 2022 NLP-Power Workshop
+<!--**April-2022:** 1 paper accepted at the ACL 2022 NLP-Power Workshop-->
 
 <!-- **March-2022:** Invited to serve as a PC member for LXNLP 2022 @NAACL2022, -->
 
-**March-2022:** 1 full paper is accepted in the BMC Bioinformatics journal
+<!--**March-2022:** 1 full paper is accepted in the BMC Bioinformatics journal-->
 
-**March-2022:** Invited to serve as a PC member for MM 2022
+<!--**March-2022:** Invited to serve as a PC member for MM 2022-->
 
 <!-- **March-2022:** Invited to serve as a PC member for ECML/PKDD 2022  -->
 
-**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics 
+<!--**March-2022:** 1 full paper accepted in the IEEE Journal of Biomedical and Health Informatics--> 
 
-**Feburary-2022:** Invited to serve as a PC member for MICCAI 2022
+<!--**Feburary-2022:** Invited to serve as a PC member for MICCAI 2022-->
 
-**Feburary-2022:** Invited to serve as a PC member for LREC 2022
+<!--**Feburary-2022:** Invited to serve as a PC member for LREC 2022-->
 
-**Feburary-2022:** Invited to serve as a PC member for ICWSM 2022
+<!--**Feburary-2022:** Invited to serve as a PC member for ICWSM 2022-->
 
-**January-2022:** 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)
+<!--**January-2022:** 2 full papers accepted at the Webconf'22 (formerly knowns as WWW)-->
 
 <!-- **Popular paper:** Our COVIDSenti paper has been ranked as the most popular paper for conitnous 10 months - Pls visit [here](https://ieeexplore.ieee.org/xpl/topAccessedArticles.jsp?punumber=6570650) for more details! -->
 
@@ -259,7 +269,7 @@ For more details please see [publications page](https://usmaann.github.io//publi
 
 ## Contact
 
-Feel free to contact me at usman.naseem@sydney.edu.au if you are interested in working with me or have any questions.
+Feel free to contact me at usman.naseem@mq.edu.au if you are interested in working with me or have any questions.
 
 <!-- <script type="text/javascript" async src="https://static.zcal.co/embed/v1/embed.js"></script> -->
 
