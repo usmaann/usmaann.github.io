@@ -23,15 +23,15 @@ redirect_from:
 
 I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
 
-My research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications (visit [Research page](https://usmaann.github.io//publications/) for details).
+My research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications such as  **(i) Cyber Informatics, (ii) Online Opinion and Sarcasm mining, (iii) Responsible Low Resource Language Processing, and (iv)  Health/Medical Informatics** (visit [Research page](https://usmaann.github.io//publications/) for details).
 
-**1) Mining Online Health Information:** Mental Health and Health Mention Classification.
+<!--**1) Mining Online Health Information:** Mental Health and Health Mention Classification.-->
 
-**2) Cyber Informatics:** Hate speech, Abusive content, Fake news, Propaganda, Rumors, and Misinformation detection.
+<!--**2) Cyber Informatics:** Hate speech, Abusive content, Fake news, Propaganda, Rumors, and Misinformation detection.-->
 
-**3) Online Opinion and Sarcasm Mining:** Sentiment analysis, Irony, and Sarcasm detection.
+<!--**3) Online Opinion and Sarcasm Mining:** Sentiment analysis, Irony, and Sarcasm detection.-->
 
-**4) Responsible NLP for low-resource languages**: Fariness and Privacy for low-resource languages
+<!--**4) Responsible NLP for low-resource languages**: Fariness and Privacy for low-resource languages-->
 
 <!--For more details please see [Research page](https://usmaann.github.io//publications/)!-->
 
