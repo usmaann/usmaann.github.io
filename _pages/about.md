@@ -33,7 +33,7 @@ My broad research interests includes natural language processing, multimodal ana
 
 **4) Responsible NLP for low-resource languages**: Fariness and Privacy for low-resource languages
 
-<!-For more details please see [Research page](https://usmaann.github.io//publications/)!-->
+<!--For more details please see [Research page](https://usmaann.github.io//publications/)!-->
 
 I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023.
 
