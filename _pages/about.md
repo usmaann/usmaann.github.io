@@ -23,7 +23,7 @@ redirect_from:
 
 I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
 
-My broad research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications (visit [Research page](https://usmaann.github.io//research/)for details).
+My broad research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications (visit [Research page](https://usmaann.github.io//research/) for details).
 
 **1) Mining Online Health Information:** Mental Health and Health Mention Classification.
 
