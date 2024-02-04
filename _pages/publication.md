@@ -26,12 +26,3 @@ We address NLP challenges in code-mixed and low-resource languages, focusing on 
 
 ## Multimodality
 Our multimodal research integrates text and vision across various tasks, including opinion mining, emotion analysis, and visual question answering, aiming to enhance understanding and interaction in various applications.
-
-
-<!--For more details on each project, please visit our [detailed project descriptions](#).-->
-
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
