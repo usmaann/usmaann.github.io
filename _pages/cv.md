@@ -7,53 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+I am always keen to hear from potential candidates who are interested to join my team which mainly focuses on Natural Language Processing (NLP), Multimodal Analysis, and Social Computing. We  focus on language modeling and the design of socially aware innovative methods for various applications. So, please feel free to get in touch if you are passionate about solving interesting problems around NLP, Multimodal Content Anlaysis and Social Computing.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+My team currently comprises of the following members whom I supervise or co-supervise directly:
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+1. M. Akram, PhD Candidate at James Cook Univesrity, Australia 
+2. Khan Md Hasib, PhD Candidate at University of Western Australia, Australia
+3. Pranav Bhandari, PhD Candidate at University of Western Australia, Australia
+4. Ali Aljalani, PhD Candidate at University of New South Wales, Australia
+5. Arthur Chen, Master (Research) candidate at University of New South Wales, Australia
