@@ -12,8 +12,10 @@ I am always keen to hear from potential candidates who are interested to join my
 
 My team currently comprises of the following members whom I supervise or co-supervise directly:
 
-1. M. Akram, PhD Candidate at James Cook Univesrity, Australia 
-2. Khan Md Hasib, PhD Candidate at University of Western Australia, Australia
-3. Pranav Bhandari, PhD Candidate at University of Western Australia, Australia
-4. Ali Aljalani, PhD Candidate at University of New South Wales, Australia
-5. Arthur Chen, Master (Research) candidate at University of New South Wales, Australia
+1. **M. Akram**, PhD Candidate at James Cook Univesrity, Australia 
+2. **Khan Md Hasib**, PhD Candidate at University of Western Australia, Australia
+3. **Pranav Bhandari**, PhD Candidate at University of Western Australia, Australia
+4. **Ali Aljalani**, PhD Candidate at University of New South Wales, Australia
+5. **Ahmed Abbasi**, PhD Candidate at James Cook Univesrity, Australia
+6. **Chameera De Silva**, PhD Candidate at James Cook Univesrity, Australia 
+7. **Arthur Chen**, Master (Research) candidate at University of New South Wales, Australia
