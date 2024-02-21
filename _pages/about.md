@@ -117,6 +117,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
+**Feburary-2024** 1 paper accepted at LREC-COLING.
+
 **Feburary-2024** 2 papers accepted at Webconf (1x Main track and 1xWeb4Good track). 
 
 **Feburary-2024** Joined Macquarie University as a lecturer (~Assistant Prof).
