@@ -117,7 +117,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## News
 
-**Feburary-2024** 1 paper accepted at LREC-COLING.
+**March-2024** 3 more papers (workshop) accepted at Webconf 2024.
+
+**March-2024** 1 paper accepted at LREC-COLING.
 
 **Feburary-2024** 2 papers accepted at Webconf (1x Main track and 1xWeb4Good track). 
 
