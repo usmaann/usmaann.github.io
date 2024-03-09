@@ -18,6 +18,8 @@ redirect_from:
 
    ${\color{red}{Looking\ for\ motivated \ MS\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$ 
 
+   $\color{blue}{Visiting\ and\ Honours\ students\ in\ the\ areas\ of NLP\,\ Multimodality\ and\ AI\ for\ Social\ Good\ are\ also\ welcomed}$
+
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
 
