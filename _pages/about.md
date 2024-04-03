@@ -109,6 +109,7 @@ This is the front page of a website that is powered by the [academicpages templa
 10. **Research Grant: $150,000 to develop new tools using LLM**
 11. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
 12. **Best Paper Award at EMNLP 2023 BLP workshop**
+13. **OpenAI Researcher Access Program**:  Application to OpenAI's API Researcher Access Program is accepted
 
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
@@ -118,6 +119,12 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- **Collaboration** -->
 
 ## News
+
+**April-2024**:  My application to OpenAI's API Researcher Access Program has been accepted.
+
+**April-2024**: We have a total of 4 papers in LREC-COLING (1x main confernece and 3x workshops). Congrats to all authors!
+
+**April-2024**: In addition to organising a workshop at Webconf (WWW), we have a total of 5 papers in Webconf (2x main confernece and 3x workshops). Congrats to all authors!
 
 **March-2024** 3 more papers (workshop) accepted at Webconf 2024.
 
