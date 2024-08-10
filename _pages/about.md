@@ -92,6 +92,24 @@ health literacy, evidence-informed decision making, and health behaviors by moni
 <!-- My research question is around how we can improve the text represnetation to understand useful insights from user-genrated text from the text, I 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
+   
+<!--15. **Research Grant:**:  MQU Data Horizons Research Support Grant is Accepted
+16. **Research Grant:**:  Macquarie University Research Acceleration Scheme (MQRAS) is Accepted-->
+
+## Research Grants/Fundings
+
+1. **Research Grant:**  JCU Sandpit2seed funding to develop new tools using LLM
+2. **Research Grant:** Awarded OpenAI's Researcher Access Program.
+3. **Research Grant:**  MQU Data Horizons Research Support Grant focused on LLM safety in online trust and safety.
+4. **Research Grant:**  Macquarie University Research Acceleration Scheme (MQRAS) grant focused on LLM safety and health misinformation.
+5. **DIN PhD Scholarship:** Defense Innovation Network (DIN) fully-funded PhD scholarship for Australian citizens, focused on AI-generated misinformation **(Hiring Australian citizen)**.
+
+<!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
+
+
+<!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
+<!-- **Collaboration** -->
+
 ## Honours and Awards
 
 <!-- A data-driven personal website -->
@@ -106,19 +124,22 @@ This is the front page of a website that is powered by the [academicpages templa
 7. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
 8. **Rising Star in AI, KAUST AI Initiative**
 9. **DAAD AINet Fellowship 2023**
-10. **Research Grant: $150,000 to develop new tools using LLM**
-11. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
-12. **Best Paper Award at EMNLP 2023 BLP workshop**
-13. **OpenAI Researcher Access Program**:  Application to OpenAI's API Researcher Access Program is accepted
+10. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
+11. **Best Paper Award at EMNLP 2023 BLP workshop**
 
 
-<!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
-
-
-<!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
-<!-- **Collaboration** -->
 
 ## News
+
+**July-2024**: 3 papers accepted at ACM MM 2024 (CORE A*)
+
+**July-2024**: 1 paper accepted at CIKM 2024
+
+**June-2024**: Invited to serve as an AC @ COLING 2025
+
+**June-2024**:  Received multiple research fundings including a fully-funded PhD scholarship. 
+
+**May-2024**: Invited Research talks: NTU, A*Star (Singapore), ISI Foundation (Italy), MBZUAI (UAE)
 
 **April-2024**:  My application to OpenAI's API Researcher Access Program has been accepted.
 
