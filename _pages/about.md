@@ -110,12 +110,12 @@ This is the front page of a website that is powered by the [academicpages templa
 <!-- 5. 6. 4. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, 2020. -->
 <!-- **Collaboration** -->
 
-## Honours and Awards
+<!-- ## Honours and Awards
 
 <!-- A data-driven personal website -->
 
 
-1. **Andrew P. Sage Best Transactions paper 2022** [award by IEEE SMC Society](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)
+<!-- 1. **Andrew P. Sage Best Transactions paper 2022** [award by IEEE SMC Society](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)
 2. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, Australia.
 3. **Scholarship**, Australain Government Research Training Program Scholarship, 2021-2023.
 4. **Postgraduate Research Supplementary scholarship**, University of Sydney, Australia, 2021 & 2022.
@@ -125,9 +125,24 @@ This is the front page of a website that is powered by the [academicpages templa
 8. **Rising Star in AI, KAUST AI Initiative**
 9. **DAAD AINet Fellowship 2023**
 10. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
-11. **Best Paper Award at EMNLP 2023 BLP workshop**
+11. **Best Paper Award at EMNLP 2023 BLP workshop**-->
 
 
+## Honours and Awards
+
+<!-- A data-driven personal website -->
+
+
+1. **Andrew P. Sage Best Transactions paper 2022** [award by IEEE SMC Society](https://www.ieeesmc.org/about-smcs/awards/andrew-p-sage-best-transactions-paper/)
+2. **NBMLHD Board Chair's Quality Award in Research and Innovation 2021**, "Understanding Patients' Sentiments in remote care settings", Nepean Blue Mountains Local Health District (NBMLHD), Sydney, NSW, Australia.
+3. **Scholarships**, RTPS (2018-2023), USYD suppl. (2021 & 2022)
+4. **Google Research**: Selected for participation in graduate symposium hosted by Google Research India, 2021. 
+5. **SIGIR 2022 and EMNLP 2022:** Student Volunteer Award
+6. **Rising Star in AI, KAUST AI Initiative**
+7. **DAAD AINet Fellowship 2023**
+8. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
+9. **Best Paper Award at EMNLP 2023 BLP workshop**
+10. **WSDM 2024:** Travel Award (includes registration and travel)
 
 ## News
 
