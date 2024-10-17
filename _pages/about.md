@@ -37,7 +37,7 @@ My research interests includes natural language processing, multimodal analysis 
 
 <!--For more details please see [Research page](https://usmaann.github.io//publications/)!-->
 
-I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023.
+I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023 and 2024.
 
 
 
@@ -145,6 +145,12 @@ This is the front page of a website that is powered by the [academicpages templa
 10. **WSDM 2024:** Travel Award (includes registration and travel)
 
 ## News
+
+**September-2024**: One paper is accepted at EMNLP 2024 (Main)
+
+**September-2024**:  Selected as one of World's Top 2% Scientists 2024 in Standford and Elsevier's report
+
+**August-2024**: Awarded DAAD Research Stay Fellowship
 
 **July-2024**: 3 papers accepted at ACM MM 2024 (CORE A*)
 
