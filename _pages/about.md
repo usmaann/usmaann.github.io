@@ -144,7 +144,7 @@ This is the front page of a website that is powered by the [academicpages templa
 9. **Best Paper Award at EMNLP 2023 BLP workshop**
 10. **WSDM 2024:** Travel Award (includes registration and travel)
 
-## News
+## Recent News
 
 **September-2024**: One paper is accepted at EMNLP 2024 (Main)
 
@@ -176,7 +176,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **Feburary-2024** Joined Macquarie University as a lecturer (~Assistant Prof).
 
-**December-2023** Received a best paper award at EMNLP-2023 BLP workshop. Congrats to Hari and Suren.
+<!--****December-2023** Received a best paper award at EMNLP-2023 BLP workshop. Congrats to Hari and Suren.
 
 **December-2023** Ogranising a workshop on Multimodal Content Analysis at Webconf-2024 see details [here](https://sites.google.com/view/mm4sg)
 
@@ -186,7 +186,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **September-2023:** 3 papers (1x Social NLP, 1x FinNLP, 1x WIES) are accepted @ AACL 2023
 
-**September-2023:** Received a research grant of $150,000.  
+**September-2023:** Received a research grant of $150,000.-->  
 
 <!--**August-2023:** Invited to serve as an SPC @ ICWSM 2024,-->
 
@@ -194,21 +194,21 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!--**June-2023:** Invited to serve as an AC @ EMNLP 2023,-->
 
-**June-2023:** 3  papers are accepted @ ACL 2023
+<!--**June-2023:** 3  papers are accepted @ ACL 2023 -->
 
-**May-2023:** Delivered a tutorial @ Webconf 2023
+<!--**May-2023:** Delivered a tutorial @ Webconf 2023 -->
 
-**May-2023:** 1 paper is accepted @ TNNLS 2023
+<!--**May-2023:** 1 paper is accepted @ TNNLS 2023 -->
 
-**April-2023:** 1 workshop paper is accepted @ CVPR 2023
+<!--**April-2023:** 1 workshop paper is accepted @ CVPR 2023 -->
 
-**April-2023:** 2  papers are accepted @ ICWSM 2023 
+<!--**April-2023:** 2  papers are accepted @ ICWSM 2023 -->
 
-**March-2023:** 1 paper is accepted @ Neural Netorks
+<!--**March-2023:** 1 paper is accepted @ Neural Netorks -->
 
-**March-2023:** 1 paper is accepted @ SIGIR 2023
+<!--**March-2023:** 1 paper is accepted @ SIGIR 2023 -->
 
-**Feburary-2023:**: 5 papers accepted @Webconf (WWW) 2023
+<!--**Feburary-2023:**: 5 papers accepted @Webconf (WWW) 2023 -->
 
 <!-- **January-2023:**: One full paper is accepted @Webconf (WWW) 2023 -->
 
@@ -216,15 +216,15 @@ This is the front page of a website that is powered by the [academicpages templa
 
 <!--**January-2023:**: Invited to serve as a AC @ACL 2023,-->
 
-**January-2023:** Selected to give a talk at the Rising Stars in AI Symposium 2023
+<!--**January-2023:** Selected to give a talk at the Rising Stars in AI Symposium  -->
 
 <!--**January-2023:**: Invited to serve as a PC member @SIGIR 2023,-->
 
 <!--**January-2023:**: Invited to serve as a PC member @MICCAI 2023,-->
 
-**January-2023:** 2 full papers accepted at AAAi'23
+<!--**January-2023:** 2 full papers accepted at AAAi'23 -->
 
-**January-2023:** One full paper is accepted at WSDM 2023
+<!--**January-2023:** One full paper is accepted at WSDM 2023 -->
 
 
 
