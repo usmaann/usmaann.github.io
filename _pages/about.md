@@ -148,6 +148,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 **December-2024**: 2 papers are accepted at COLING 2025
 
+**November-2024**: We won the "Best Student Paper" award at AJCAI 2024
+
 **November-2024**: Our workshop (MM4SG) has been accepted at The WebConf and ACL 2025
 
 **November-2024**: 1 paper is accepted at ATLA (Australasian Language Technology Association) 2024
