@@ -146,6 +146,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+**November-2024**: 2 papers are accepted at COLING 2025
+
 **September-2024**: One paper is accepted at EMNLP 2024 (Main)
 
 **September-2024**:  Selected as one of World's Top 2% Scientists 2024 in Standford and Elsevier's report
