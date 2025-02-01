@@ -143,8 +143,15 @@ This is the front page of a website that is powered by the [academicpages templa
 8. **Top 2% Global Scientists 2023** [published by Stanford](https://lnkd.in/g5YS-2SW)
 9. **Best Paper Award at EMNLP 2023 BLP workshop**
 10. **WSDM 2024:** Travel Award (includes registration and travel)
+11. **AJCAI 2024 Best Student paper award**
+12. **DAAD Fellowship (Research Stay in Germany) 2023 - 2024**
+13. **Secured funding for a joint PhD student with the University of Groningen**
 
 ## Recent News
+
+**Feburary-2025**: Hiring an exceptional PhD student for a joint program between Macquarie University in Australia and the University of Groningen in the Netherlands, with funding secured to start in 2025. Apply now!
+
+**January-2025**: 5 papers have been accepted at WebConf, and 1 at NAACL. Congratulations to everyone!
 
 **December-2024**: 2 papers are accepted at COLING 2025
 
