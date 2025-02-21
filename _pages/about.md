@@ -16,7 +16,7 @@ redirect_from:
 
 <!--  # ${\color{red}{Hiring:\ RA\ with\ stong\ NLP\ expertise\ to\ build\ a\ tool\ using\ LLM!}}$$ -->
 
-   ${\color{red}{Looking\ for\ motivated \ MS\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$ 
+   ${\color{red}{Looking\ for\ motivated \ MS\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$  **see details** [here](https://shorturl.at/AGLru) 
 
    $\color{blue}{Visiting\ and\ Honours\ students\ in\ the\ areas\ of NLP\,\ Multimodality\ and\ AI\ for\ Social\ Good\ are\ also\ welcomed}$
 
@@ -149,9 +149,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
-**Feburary-2025**: Hiring an exceptional PhD student for a joint program between Macquarie University in Australia and the University of Groningen in the Netherlands, with funding secured to start in 2025. Apply now!
+**Feburary-2025**: Hiring **multiple** exceptional PhD students. Apply now! **see details** [here](https://shorturl.at/AGLru) 
 
-**January-2025**: 5 papers have been accepted at WebConf, and 1 at NAACL. Congratulations to everyone!
+**January-2025**: 5 papers have been accepted at WebConf, 2 in AAAi and 1 in NAACL. Congratulations to everyone!
 
 **December-2024**: 2 papers are accepted at COLING 2025
 
