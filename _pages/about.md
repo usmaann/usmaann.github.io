@@ -149,6 +149,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+**April-2025**: Awarded DAIRNET EMCR Research Collaboration Grant
+
+**April-2025**: A paper is accepted at ICWSM 2025. 
+
+**March-2025**: A paper is accepted at SIGIR 2025. 
+
 **Feburary-2025**: Hiring **multiple** exceptional PhD students. Apply now! **see details** [here](https://shorturl.at/AGLru) 
 
 **January-2025**: 5 papers have been accepted at WebConf, 2 in AAAi and 1 in NAACL. Congratulations to everyone!
