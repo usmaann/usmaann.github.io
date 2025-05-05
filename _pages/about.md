@@ -149,6 +149,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+**April-2025**: 4 papers have been accepted at IJCAI 2025. Congratulations to everyone!
+
+**April-2025**: A paper is accepted at ICWSM 2025. 
+
 **April-2025**: Awarded DAIRNET EMCR Research Collaboration Grant
 
 **April-2025**: A paper is accepted at ICWSM 2025. 
