@@ -149,6 +149,8 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+**May-2025**: 3 papers have been accepted at ACL (Main) 2025. Congratulations to everyone!
+
 **April-2025**: 4 papers have been accepted at IJCAI 2025. Congratulations to everyone!
 
 **April-2025**: A paper is accepted at ICWSM 2025. 
