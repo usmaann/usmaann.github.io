@@ -149,6 +149,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+
+**Aug-2025**: 7 papers have been accepted at EMNLP 2025. Congratulations to everyone!
+
+**Jul-2025**: Our proposal for the SemEval-2026 Shared Task on Detecting Multilingual, Multicultural, and Multievent Online Polarization has been accepted! [See details here: SemEval2026](https://polar-semeval.github.io/)
+
 **May-2025**: 3 papers have been accepted at ACL (Main) 2025. Congratulations to everyone!
 
 **April-2025**: 4 papers have been accepted at IJCAI 2025. Congratulations to everyone!
