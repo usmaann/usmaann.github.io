@@ -149,6 +149,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 ## Recent News
 
+**Sep-2025**: Congrats to Afrozah for winning the Best Paper and Best Presentation Awards at CASE @ RANLP 2025 for work on mitigating political stance bias in LLMs, advancing our mission to align AI with human values.
 
 **Aug-2025**: 7 papers have been accepted at EMNLP 2025. Congratulations to everyone!
 
