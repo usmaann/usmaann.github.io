@@ -18,14 +18,18 @@ redirect_from:
 
    ${\color{red}{Looking\ for\ motivated \ MS\ (Research)\ and\ PhD\ students\. \ Get\ in\ touch\ if \ you \ are\ intrested\ !\}}$  **see details** [here](https://shorturl.at/AGLru) 
 
-   $\color{blue}{Visiting\ and\ Honours\ students\ in\ the\ areas\ of NLP\,\ Multimodality\ and\ AI\ for\ Social\ Good\ are\ also\ welcomed}$
+   $\color{blue}{Visiting\ and\ Honours\ students\ in\ the\ areas\ of NLP\,and\ AI\ for\ Social\ Good\ are\ also\ welcomed}$
 
 <!--Usman completed his PhD from the University of Sydney, Australia, and Masters in Research from University of Technology Sydney, Australia.-->
 
 
 I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
 
-My research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications such as  **(i) Cyber Informatics, (ii) Online Opinion and Sarcasm mining, (iii) Responsible Low Resource Language Processing, and (iv)  Health/Medical Informatics** (visit [Research page](https://usmaann.github.io//publications/) for details).
+
+My research in Natural Language Processing (NLP) is structured around three interconnected themes: (i) Trust and Safety, (ii) LLM Alignment, and (iii) NLP for Social Good. A central focus of my current work is **LLM Alignment with Human Preferences, Values, Cultures, and Safety**, exploring how large language models can reason more reliably, reflect diverse worldviews, and operate responsibly in real-world contexts. This involves developing frameworks for **value-sensitive, safety-aware, pluralistic, and culturally aligned** modeling, ensuring that systems behave in ways that are ethical, contextually appropriate, and aligned with human intentions.
+
+
+<!--My research interests includes natural language processing, multimodal analysis and social computing, with a specific focus on language modeling and the design of socially aware innovative methods for various applications such as  **(i) Cyber Informatics, (ii) Online Opinion and Sarcasm mining, (iii) Responsible Low Resource Language Processing, and (iv)  Health/Medical Informatics** (visit [Research page](https://usmaann.github.io//publications/) for details).-->
 
 <!--**1) Mining Online Health Information:** Mental Health and Health Mention Classification.-->
 
@@ -37,10 +41,13 @@ My research interests includes natural language processing, multimodal analysis 
 
 <!--For more details please see [Research page](https://usmaann.github.io//publications/)!-->
 
-I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023 and 2024.
+<!--I lead the NLP for Social Good Lab, advancing research at the intersection of language technology and societal impact. My work is recognized among Stanford University’s World’s Top 2% Scientists (2023–2025), with over 4,700 citations (h-index 35) and multiple Best Paper Awards, including from IEEE Transactions (2022) and the EMNLP 2023 workshop. I have secured approximately AUD $5.3M in competitive funding, supporting both foundational and translational research adopted by John Snow Labs and covered in Australian media.
 
+I actively contribute to the academic community through program leadership and peer review, serving as Program Co-Chair (WebConf 2026 Web4Good), Senior Area Chair (EMNLP 2025, EACL 2026), and Area Chair for ACL, EMNLP, AAAI, and ACM MM, as well as reviewing for top journals and funding agencies. I have delivered invited talks, tutorials, and workshops globally—including LLM alignment tutorials (ALTA 2025, AJCAI 2025)—and supervised HDR students in producing high-impact, socially relevant research.
 
+I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023 and 2024.-->
 
+I lead the NLP for Social Good Lab, where we develop safe, aligned, and socially impactful language technologies with real-world applications. I actively publish and contribute to the academic community by serving on program committees, including as Program Co-Chair (WebConf 2026 Web4Good), Senior Area Chair (EMNLP 2025, EACL 2026), and Area Chair for ACL, EMNLP, AAAI, and ACM MM, as well as reviewing for top journals and funding agencies. I am honored to be the recipient of several national and international awards and fellowships, including 5 Best Paper Awards and the DAAD AINet fellowship (2023–2024). My work has been adopted by industry and covered in Australian media.
 
 
 <!-- Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia, holding a PhD from the University of Sydney, Australia. With over 10 years of industry experience, he previously served as a research fellow at the University of Sydney and the University of South Australia. His research focuses on the intersection of machine learning and natural language processing, particularly in language modeling and the design of innovative representation learning techniques that enable machines to understand and generate human language at scale.-->
@@ -128,6 +135,7 @@ This is the front page of a website that is powered by the [academicpages templa
 11. **Best Paper Award at EMNLP 2023 BLP workshop**-->
 
 
+
 ## Honours and Awards
 
 <!-- A data-driven personal website -->
@@ -146,12 +154,15 @@ This is the front page of a website that is powered by the [academicpages templa
 11. **AJCAI 2024 Best Student paper award**
 12. **DAAD Fellowship (Research Stay in Germany) 2023 - 2024**
 13. **Secured funding for a joint PhD student with the University of Groningen**
+14. **Won Best Paper and presentation Award at CASE RANLP 2025**
 
 ## Recent News
 
 **Sep-2025**: Congrats to Afrozah for winning the Best Paper and Best Presentation Awards at CASE @ RANLP 2025 for work on mitigating political stance bias in LLMs, advancing our mission to align AI with human values.
 
-**Aug-2025**: 7 papers have been accepted at EMNLP 2025. Congratulations to everyone!
+**Aug-2025**: 10 papers  (3 Main, 4 Findings, 2 Industry Track, 1 Workshop) have been accepted at EMNLP 2025. Congratulations to everyone!
+
+**Aug-2025**: I will be delivering two tutorials this year on AI Alignment with Human Values and Preferences—at ALTA 2025 and AJCAI 2025
 
 **July-2025:** I am serving as the PC Co-chair of The Web Conference (Web4Good Track), 2026.
 
