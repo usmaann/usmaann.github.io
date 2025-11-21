@@ -47,7 +47,7 @@ I actively contribute to the academic community through program leadership and p
 
 I actively publish and contribute to the academic community by serving on the program committee, including as an area chair, for several top-tier venues such as ACL, EMNLP, COLING, WSDM, Webconf, SIGIR, ACM MM, and IEEE Transactions. I am honored to be the recipient of several national and international awards, grants, and fellowships, including the Best Paper Awards from IEEE Transactions in 2022 and at the EMNLP 2023 workshop, as well as the DAAD AINet fellowship in 2023 and 2024.-->
 
-I lead the NLP for Social Good Lab, where we develop safe, aligned, and socially impactful language technologies with real-world applications. I actively publish and contribute to the academic community by serving on program committees, including as Program Co-Chair (WebConf 2026 Web4Good), Senior Area Chair (EMNLP 2025, EACL 2026), and Area Chair for ACL, EMNLP, AAAI, and ACM MM, as well as reviewing for top journals and funding agencies. I am honored to be the recipient of several national and international awards and fellowships, including 5 Best Paper Awards and the DAAD AINet fellowship (2023–2024). My work has been adopted by industry and covered in Australian media.
+I lead the NLP for Social Good Lab - [SocialNLP](https://socialnlpresearchlab.github.io/), where we develop safe, aligned, and socially impactful language technologies with real-world applications. I actively publish and contribute to the academic community by serving on program committees, including as Program Co-Chair (WebConf 2026 Web4Good), Senior Area Chair (EMNLP 2025, EACL 2026), and Area Chair for ACL, EMNLP, AAAI, and ACM MM, as well as reviewing for top journals and funding agencies. I am honored to be the recipient of several national and international awards and fellowships, including 5 Best Paper Awards and the DAAD AINet fellowship (2023–2024). My work has been adopted by industry and covered in Australian media.
 
 
 <!-- Usman Naseem is a lecturer (~Assistant Professor) at the College of Science and Engineering at James Cook University, Australia, holding a PhD from the University of Sydney, Australia. With over 10 years of industry experience, he previously served as a research fellow at the University of Sydney and the University of South Australia. His research focuses on the intersection of machine learning and natural language processing, particularly in language modeling and the design of innovative representation learning techniques that enable machines to understand and generate human language at scale.-->
@@ -110,6 +110,9 @@ This is the front page of a website that is powered by the [academicpages templa
 3. **Research Grant:**  MQU Data Horizons Research Support Grant focused on LLM safety in online trust and safety.
 4. **Research Grant:**  Macquarie University Research Acceleration Scheme (MQRAS) grant focused on LLM safety and health misinformation.
 5. **DIN PhD Scholarship:** Defense Innovation Network (DIN) fully-funded PhD scholarship for Australian citizens, focused on AI-generated misinformation **(Hiring Australian citizen)**.
+6. **Research Grant:** ASCA (Department of Defence) ~ $3M
+7. **Research Grant:** SafeOnline Initiative ~ $238,289
+
 
 <!-- 7. **Nominated for Best Transactions Paper Award** by IEEE SMC Society  -->
 
@@ -157,6 +160,14 @@ This is the front page of a website that is powered by the [academicpages templa
 14. **Won Best Paper and presentation Award at CASE RANLP 2025**
 
 ## Recent News
+
+**Nov-2025**: 2 papers  (1 Main and 1 Demo) have been accepted at AAAi 2026. Congratulations to everyone!
+
+**Nov-2025**: Received the Outstanding Senior Area Chair Award at EMNLP 2025!
+
+**Oct-2025**: “We will be presenting two papers at ALTA 2025 and will be delivering a tutorial on LLM Alignment. See details [here](https://socialnlpresearchlab.github.io/ALTA/)
+
+**Oct-2025**: Received FSE Travel Grant and listed in Top 2% research scientist list 
 
 **Sep-2025**: Congrats to Afrozah for winning the Best Paper and Best Presentation Awards at CASE @ RANLP 2025 for work on mitigating political stance bias in LLMs, advancing our mission to align AI with human values.
 
