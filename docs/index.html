@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Usman Naseem | Macquarie University</title>
+
+<style>
+
+/* ===== Theme Colors ===== */
+:root {
+    --primary: #7b1e2b;          /* Main maroon */
+    --primary-light: #f6e9eb;    /* Very light maroon background */
+    --shadow: rgba(0, 0, 0, 0.06);
+}
+
+/* ===== Global ===== */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #ffffff;
+    color: #000000;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+/* ===== Navigation Bar ===== */
+.navbar {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 14px 0;
+}
+
+.nav-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;   /* ⭐ This centers the links */
+    align-items: center;
+    gap: 30px;
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    transition: 0.2s ease;
+}
+
+.nav-container a:hover {
+    color: var(--primary);
+}
+
+.nav-container a.active {
+    color: var(--primary);
+    font-weight: 700;
+}
+
+/* ===== Header Section ===== */
+.header {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 10px 25px var(--shadow);
+}
+
+.name {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: var(--primary);
+}
+
+.affiliation a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.affiliation a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Bio Sub Box ===== */
+.bio-box {
+    background: var(--primary-light);
+    padding: 25px 30px;
+    border-radius: 14px;
+    box-shadow: 0 8px 25px var(--shadow);
+    margin-top: 20px;
+    max-width: 750px;
+    border-left: 5px solid var(--primary);
+}
+
+.bio {
+    text-align: justify;
+    line-height: 1.75;
+    color: #000;
+}
+
+.bio p {
+    margin-bottom: 14px;
+}
+
+/* ===== Profile Left Column ===== */
+.profile-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ===== Social Links ===== */
+.social-links {
+    margin-top: 15px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    background: #ffffff;                  /* White background */
+    color: var(--primary);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1.5px solid var(--primary);   /* Maroon border */
+    transition: all 0.25s ease;
+}
+
+.social-link img {
+    width: 16px;
+    height: 16px;
+}
+
+/* Hover */
+.social-link:hover {
+    background: var(--primary);
+    color: #ffffff;
+}
+
+/* ===== Sections ===== */
+.section {
+    margin-top: 60px;
+}
+
+.section h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+/* ===== News ===== */
+.news-box {
+    background: var(--primary-light);
+    padding: 20px 25px;
+    border-radius: 14px;
+    box-shadow: 0 8px 25px var(--shadow);
+    max-height: 400px;
+    overflow-y: auto;
+    border-left: 5px solid var(--primary);
+}
+
+.news-item {
+    margin-bottom: 10px;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: #000;
+}
+
+.news-date {
+    font-weight: 700;
+    color: var(--primary);
+}
+
+/* ===== Publications ===== */
+/* ===== Publications with Image Layout ===== */
+.pub-card {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px var(--shadow);
+    margin-bottom: 20px;
+    border-left: 5px solid var(--primary);
+    transition: transform 0.2s ease;
+}
+
+/* Left Image */
+.pub-image {
+    width: 220px;
+    aspect-ratio: 16 / 9;   /* keeps nice rectangle */
+    overflow: hidden;
+    border-radius: 8px;
+    background: #f8f8f8;
+}
+
+.pub-image img {
+    width: 100%;
+    height: auto;          /* IMPORTANT */
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+/* Zoom Effect */
+.pub-image:hover img {
+    transform: scale(1.12);
+}
+
+/* Right Content */
+.pub-content {
+    flex: 1;
+}
+
+.pub-title {
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--primary);
+}
+
+.pub-authors {
+    font-size: 14px;
+    color: #000;
+}
+
+.pub-venue {
+    font-size: 14px;
+    font-style: italic;
+    margin: 5px 0;
+    color: #333;
+}
+
+.pub-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background: var(--primary-light);
+    color: var(--primary);
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 12px;
+    transition: 0.2s ease;
+}
+
+.pub-links a:hover {
+    background: var(--primary);
+    color: white;
+}
+
+/* ===== Responsive ===== */
+@media(max-width: 768px) {
+    .header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-container {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+}
+
+/* ===== Footer ===== */
+.footer {
+    margin-top: 80px;
+    background: #ffffff;
+    border-top: 2px solid var(--primary);
+    padding: 30px 0;
+}
+
+.footer-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    font-size: 14px;
+    color: #000;
+}
+
+.footer-left strong {
+    color: var(--primary);
+    font-size: 15px;
+}
+
+.footer-right a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer-right a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media(max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- ===== Navigation ===== -->
+<div class="navbar">
+    <div class="nav-container">
+        <a href="#about" class="active">About</a>
+        <a href="https://socialnlpresearchlab.github.io/">SocialNLP Lab</a>
+        <a href="publications.html">Publications</a>
+<a href="grants.html">Research Grants</a>
+<a href="teaching.html">Teaching</a>
+<a href="services.html">Services</a>
+<a href="awards.html">Awards</a>
+    </div>
+</div>
+
+<div id="last-updated" 
+     style="text-align:center; 
+            font-family:'Nunito Sans',sans-serif; 
+            font-size:0.9rem; 
+            color:#5b3a3a; 
+            margin-top:4px;">
+  Last updated: 
+  <span style="color:#C1272D; font-weight:600;">
+    {{ site.time | date: "%d %b %Y" }}
+  </span>
+</div>
+
+<div class="container">
+
+    <!-- ===== About Section ===== -->
+    <div id="about" class="header">
+        <div class="profile-left">
+    <img src="U1.PNG" alt="Profile Photo" class="profile-img">
+
+    <div class="social-links">
+        <a class="social-link" href="https://scholar.google.com/citations?hl=en&user=61Ou1P8AAAAJ" target="_blank">
+            <img src="GS.png" alt="Scholar Icon"> Google Scholar
+        </a>
+
+        <a class="social-link" href="https://www.linkedin.com/in/usmannaseem87/" target="_blank">
+            <img src="LI.png" alt="LinkedIn Icon"> LinkedIn
+        </a>
+		
+		<a class="social-link" href="https://www.linkedin.com/in/usmannaseem87/" target="_blank">
+            <img src="OC.png" alt="ORCID Icon"> ORCID
+        </a>
+		
+		<a class="social-link" href="https://github.com/usmaann" target="_blank">
+            <img src="GH.png" alt="Github Icon"> Github
+        </a>
+    </div>
+	<div style="margin-top:20px; text-align:center;">
+    <a href="https://clustrmaps.com/site/1bma2" target="_blank">
+        <img src="https://clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080" 
+             alt="Visitor Map" style="max-width:100%; height:auto;">
+    </a>
+</div>
+</div>
+        <div>
+            <div class="name">Usman Naseem</div>
+            <div class="affiliation">
+    <a href="https://www.mq.edu.au/" target="_blank">
+        Macquarie University
+    </a>
+</div>
+            <div class="bio-box">
+    <div class="bio">
+        I am currently a lecturer (~Assistant Professor) in the School of Computing at Macquarie University. Previously, I held a lecturer position in the College of CSE at James Cook University and worked as a research fellow at the University of Sydney and the University of South Australia. I earned my PhD from the University of Sydney, Australia. Before transitioning to academia, I worked in the industry for over 10 years in various technical and leadership roles.
+
+My research in Natural Language Processing (NLP) is structured around three interconnected themes: (i) Trust and Safety, (ii) LLM Alignment, and (iii) NLP for Social Good. A central focus of my current work is LLM Alignment with Human Preferences, Values, Cultures, and Safety, exploring how large language models can reason more reliably, reflect diverse worldviews, and operate responsibly in real-world contexts. This involves developing frameworks for value-sensitive, safety-aware, pluralistic, and culturally aligned modeling, ensuring that systems behave in ways that are ethical, contextually appropriate, and aligned with human intentions.
+
+I lead the NLP for Social Good Lab - SocialNLP, where we develop safe, aligned, and socially impactful language technologies with real-world applications. I actively publish and contribute to the academic community by serving on program committees, including as Program Co-Chair (WebConf 2026 Web4Good), Senior Area Chair (EMNLP 2025, EACL 2026), and Area Chair for ACL, EMNLP, AAAI, and ACM MM, as well as reviewing for top journals and funding agencies. I am honored to be the recipient of several national and international awards and fellowships, including 5 Best Paper Awards and the DAAD AINet fellowship (2023–2024). My work has been adopted by industry and covered in Australian media.
+    </div>
+</div>
+        </div>
+    </div>
+
+    <!-- ===== News ===== -->
+    <div class="section">
+    <h2>News</h2>
+
+    <div class="news-box">
+
+        <div class="news-item"><span class="news-date">Jan 2026:</span> Won the Best Paper Award at AAAI 2026 for our work on LLM. Congratulations to everyone!</div>
+        <div class="news-item"><span class="news-date">Jan 2026:</span> 6 papers have been accepted at WebConf (WWW) 2026. Congratulations to everyone!</div>
+        <div class="news-item"><span class="news-date">Jan 2026:</span> 5 papers (3 Main and 2 Findings) have been accepted at EACL 2026. Congratulations to everyone!</div>
+
+        <div class="news-item"><span class="news-date">Dec 2025:</span> Congrats to Ada for winning the Best Paper Award at Agent AI @ Big Data 2025 for work on AI Safety.</div>
+
+        <div class="news-item"><span class="news-date">Nov 2025:</span> 2 papers (1 Main and 1 Demo) accepted at AAAI 2026. Congratulations!</div>
+        <div class="news-item"><span class="news-date">Nov 2025:</span> Received the Outstanding Senior Area Chair Award at EMNLP 2025.</div>
+
+        <div class="news-item"><span class="news-date">Oct 2025:</span> Presenting two papers at ALTA 2025 and delivering a tutorial on LLM Alignment.</div>
+        <div class="news-item"><span class="news-date">Oct 2025:</span> Received FSE Travel Grant and listed in Top 2% Research Scientists.</div>
+
+        <div class="news-item"><span class="news-date">Sep 2025:</span> Congrats to Afrozah for winning Best Paper and Best Presentation Awards at CASE @ RANLP 2025.</div>
+
+        <div class="news-item"><span class="news-date">Aug 2025:</span> 10 papers accepted at EMNLP 2025 (3 Main, 4 Findings, 2 Industry, 1 Workshop).</div>
+        <div class="news-item"><span class="news-date">Aug 2025:</span> Delivering tutorials on AI Alignment at ALTA 2025 and AJCAI 2025.</div>
+
+        <div class="news-item"><span class="news-date">July 2025:</span> Serving as PC Co-Chair of The Web Conference (Web4Good Track), 2026.</div>
+        <div class="news-item"><span class="news-date">July 2025:</span> SemEval-2026 Shared Task proposal accepted.</div>
+
+        <div class="news-item"><span class="news-date">May 2025:</span> 3 papers accepted at ACL (Main) 2025.</div>
+
+        <div class="news-item"><span class="news-date">April 2025:</span> 4 papers accepted at IJCAI 2025.</div>
+        <div class="news-item"><span class="news-date">April 2025:</span> Paper accepted at ICWSM 2025.</div>
+        <div class="news-item"><span class="news-date">April 2025:</span> Awarded DAIRNET EMCR Research Collaboration Grant.</div>
+
+        <div class="news-item"><span class="news-date">March 2025:</span> Paper accepted at SIGIR 2025.</div>
+
+        <div class="news-item"><span class="news-date">Feb 2025:</span> Hiring multiple exceptional PhD students — Apply now!</div>
+
+        <div class="news-item"><span class="news-date">Jan 2025:</span> 5 papers accepted at WebConf, 2 at AAAI, and 1 at NAACL.</div>
+
+        <div class="news-item"><span class="news-date">Dec 2024:</span> 2 papers accepted at COLING 2025.</div>
+
+        <div class="news-item"><span class="news-date">Nov 2024:</span> Won Best Student Paper Award at AJCAI 2024.</div>
+        <div class="news-item"><span class="news-date">Nov 2024:</span> Workshop (MM4SG) accepted at WebConf and ACL 2025.</div>
+        <div class="news-item"><span class="news-date">Nov 2024:</span> 1 paper accepted at ALTA 2024.</div>
+
+        <div class="news-item"><span class="news-date">Sep 2024:</span> Paper accepted at EMNLP 2024 (Main).</div>
+        <div class="news-item"><span class="news-date">Sep 2024:</span> Selected among World’s Top 2% Scientists 2024.</div>
+
+        <div class="news-item"><span class="news-date">Aug 2024:</span> Awarded DAAD Research Stay Fellowship.</div>
+
+        <div class="news-item"><span class="news-date">July 2024:</span> 3 papers accepted at ACM MM 2024 (CORE A*).</div>
+        <div class="news-item"><span class="news-date">July 2024:</span> 1 paper accepted at CIKM 2024.</div>
+
+        <div class="news-item"><span class="news-date">June 2024:</span> Invited to serve as AC @ COLING 2025.</div>
+        <div class="news-item"><span class="news-date">June 2024:</span> Received multiple research fundings including fully-funded PhD scholarship.</div>
+
+        <div class="news-item"><span class="news-date">May 2024:</span> Invited talks at NTU, A*Star, ISI Foundation, MBZUAI.</div>
+
+        <div class="news-item"><span class="news-date">April 2024:</span> Accepted into OpenAI API Researcher Access Program.</div>
+        <div class="news-item"><span class="news-date">April 2024:</span> 4 papers at LREC-COLING (1 Main, 3 Workshops).</div>
+        <div class="news-item"><span class="news-date">April 2024:</span> 5 papers at WebConf (2 Main, 3 Workshops).</div>
+
+        <div class="news-item"><span class="news-date">March 2024:</span> 3 workshop papers accepted at WebConf 2024.</div>
+        <div class="news-item"><span class="news-date">March 2024:</span> 1 paper accepted at LREC-COLING.</div>
+
+        <div class="news-item"><span class="news-date">Feb 2024:</span> 2 papers accepted at WebConf (Main & Web4Good).</div>
+        <div class="news-item"><span class="news-date">Feb 2024:</span> Joined Macquarie University as Lecturer (~Assistant Professor).</div>
+
+    </div>
+</div>
+
+    <!-- ===== Publications ===== -->
+    <div id="publications" class="section">
+    <h2>Selected Publications</h2>
+
+    <!-- ================= AI Alignment ================= -->
+    <h3 class="pub-category">AI Alignment</h3>
+
+    <div class="pub-card">
+
+    <div class="pub-image">
+        <img src="ARCH.PNG" alt="Paper Thumbnail">
+    </div>
+
+    <div class="pub-content">
+        <div class="pub-title">
+            Provable Ordering and Continuity in Vision-Language Pretraining
+        </div>
+        <div class="pub-authors">
+            Your Name, Co-author 1, Co-author 2
+        </div>
+        <div class="pub-venue">
+            NeurIPS 2025
+        </div>
+        <div class="pub-links">
+            <a href="#">PDF</a>
+        </div>
+    </div>
+
+</div>
+
+    <!-- ================= Mechanistic Interpretability ================= -->
+    <h3 class="pub-category">Mechanistic Interpretability</h3>
+
+    <div class="pub-card">
+
+    <div class="pub-image">
+        <img src="ARCH.PNG" alt="Paper Thumbnail">
+    </div>
+
+    <div class="pub-content">
+        <div class="pub-title">
+            Provable Ordering and Continuity in Vision-Language Pretraining
+        </div>
+        <div class="pub-authors">
+            Your Name, Co-author 1, Co-author 2
+        </div>
+        <div class="pub-venue">
+            NeurIPS 2025
+        </div>
+        <div class="pub-links">
+            <a href="#">PDF</a>
+        </div>
+    </div>
+
+</div>
+
+    <!-- ================= NLP Applications ================= -->
+    <h3 class="pub-category">NLP Applications & Social Good</h3>
+
+    <div class="pub-card">
+
+    <div class="pub-image">
+        <img src="ARCH.PNG" alt="Paper Thumbnail">
+    </div>
+
+    <div class="pub-content">
+        <div class="pub-title">
+            Provable Ordering and Continuity in Vision-Language Pretraining
+        </div>
+        <div class="pub-authors">
+            Your Name, Co-author 1, Co-author 2
+        </div>
+        <div class="pub-venue">
+            NeurIPS 2025
+        </div>
+        <div class="pub-links">
+            <a href="#">PDF</a>
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+<!-- ===== Footer ===== -->
+<footer class="footer">
+    <div class="footer-container">
+
+        <div class="footer-left">
+            <strong>Dr. Usman Naseem</strong><br>
+            Macquarie University, Australia
+        </div>
+
+        <div class="footer-right">
+            <div>📧 <a href="mailto:usman.naseem@mq.edu.au">usman.naseem@mq.edu.au</a></div>
+            <div>School of Computing<br>
+                Macquarie University<br>
+                Sydney, NSW 2113, Australia
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+</body>
+</html>

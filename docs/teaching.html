@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Usman Naseem | Macquarie University</title>
+
+<style>
+
+/* ===== Theme Colors ===== */
+:root {
+    --primary: #7b1e2b;          /* Main maroon */
+    --primary-light: #f6e9eb;    /* Very light maroon background */
+    --shadow: rgba(0, 0, 0, 0.06);
+}
+
+/* ===== Global ===== */
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: #ffffff;
+    color: #000000;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 40px 20px;
+}
+
+/* ===== Navigation Bar ===== */
+.navbar {
+    background: #ffffff;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 14px 0;
+}
+
+.nav-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;   /* ⭐ This centers the links */
+    align-items: center;
+    gap: 30px;
+}
+
+.nav-container a {
+    text-decoration: none;
+    color: #000;
+    font-size: 16px;
+    transition: 0.2s ease;
+}
+
+.nav-container a:hover {
+    color: var(--primary);
+}
+
+.nav-container a.active {
+    color: var(--primary);
+    font-weight: 700;
+}
+
+/* ===== Header Section ===== */
+.header {
+    display: flex;
+    flex-direction: column;   /* stack vertically */
+    align-items: center;      /* center horizontally */
+    justify-content: center;
+    text-align: center;
+    gap: 25px;
+}
+
+.profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 10px 25px var(--shadow);
+}
+
+.name {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 10px;
+    color: var(--primary);
+}
+
+.affiliation a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.affiliation a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Bio Sub Box ===== */
+.bio-box {
+    background: var(--primary-light);
+    padding: 25px 30px;
+    border-radius: 14px;
+    box-shadow: 0 8px 25px var(--shadow);
+    margin-top: 20px;
+    max-width: 750px;
+    border-left: 5px solid var(--primary);
+}
+
+.bio {
+    text-align: justify;
+    line-height: 1.75;
+    color: #000;
+}
+
+.bio p {
+    margin-bottom: 14px;
+}
+
+/* ===== Profile Left Column ===== */
+.profile-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ===== Social Links ===== */
+.social-links {
+    margin-top: 15px;
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    text-decoration: none;
+    background: #ffffff;                  /* White background */
+    color: var(--primary);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    border: 1.5px solid var(--primary);   /* Maroon border */
+    transition: all 0.25s ease;
+}
+
+.social-link img {
+    width: 16px;
+    height: 16px;
+}
+
+/* Hover */
+.social-link:hover {
+    background: var(--primary);
+    color: #ffffff;
+}
+
+/* ===== Sections ===== */
+.section {
+    margin-top: 60px;
+}
+
+.section h2 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    padding-bottom: 8px;
+    color: var(--primary);
+    font-weight: 800;
+}
+
+/* ===== News ===== */
+.news-box {
+    background: var(--primary-light);
+    padding: 20px 25px;
+    border-radius: 14px;
+    box-shadow: 0 8px 25px var(--shadow);
+    max-height: 400px;
+    overflow-y: auto;
+    border-left: 5px solid var(--primary);
+}
+
+.news-item {
+    margin-bottom: 10px;
+    font-size: 14.5px;
+    line-height: 1.6;
+    color: #000;
+}
+
+.news-date {
+    font-weight: 700;
+    color: var(--primary);
+}
+
+/* ===== Publications ===== */
+/* ===== Publications with Image Layout ===== */
+.pub-card {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 5px 20px var(--shadow);
+    margin-bottom: 20px;
+    border-left: 5px solid var(--primary);
+    transition: transform 0.2s ease;
+}
+
+/* Left Image */
+.pub-image {
+    width: 220px;
+    aspect-ratio: 16 / 9;   /* keeps nice rectangle */
+    overflow: hidden;
+    border-radius: 8px;
+    background: #f8f8f8;
+}
+
+.pub-image img {
+    width: 100%;
+    height: auto;          /* IMPORTANT */
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+/* Zoom Effect */
+.pub-image:hover img {
+    transform: scale(1.12);
+}
+
+/* Right Content */
+.pub-content {
+    flex: 1;
+}
+
+.pub-title {
+    font-weight: 700;
+    font-size: 16px;
+    color: var(--primary);
+}
+
+.pub-authors {
+    font-size: 14px;
+    color: #000;
+}
+
+.pub-venue {
+    font-size: 14px;
+    font-style: italic;
+    margin: 5px 0;
+    color: #333;
+}
+
+.pub-links a {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    background: var(--primary-light);
+    color: var(--primary);
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 12px;
+    transition: 0.2s ease;
+}
+
+.pub-links a:hover {
+    background: var(--primary);
+    color: white;
+}
+
+/* ===== Responsive ===== */
+@media(max-width: 768px) {
+    .header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nav-container {
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+}
+
+/* ===== Footer ===== */
+.footer {
+    margin-top: 80px;
+    background: #ffffff;
+    border-top: 2px solid var(--primary);
+    padding: 30px 0;
+}
+
+.footer-container {
+    max-width: 1000px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+    font-size: 14px;
+    color: #000;
+}
+
+.footer-left strong {
+    color: var(--primary);
+    font-size: 15px;
+}
+
+.footer-right a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.footer-right a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media(max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+
+</style>
+</head>
+
+<body>
+
+<!-- ===== Navigation ===== -->
+<div class="navbar">
+    <div class="nav-container">
+        <a href="index.html" class="active">About</a>
+        <a href="https://socialnlpresearchlab.github.io/">SocialNLP Lab</a>
+        <a href="publications.html">Publications</a>
+<a href="grants.html">Research Grants</a>
+<a href="teaching.html">Teaching</a>
+<a href="services.html">Services</a>
+<a href="awards.html">Awards</a>
+    </div>
+</div>
+
+<div id="last-updated" 
+     style="text-align:center; 
+            font-family:'Nunito Sans',sans-serif; 
+            font-size:0.9rem; 
+            color:#5b3a3a; 
+            margin-top:4px;">
+  Last updated: 
+  <span style="color:#C1272D; font-weight:600;">
+    {{ site.time | date: "%d %b %Y" }}
+  </span>
+</div>
+
+<div class="container">
+
+    <!-- ===== About Section ===== -->
+    <div id="about" class="header">
+        <div class="profile-left">
+    <img src="U1.PNG" alt="Profile Photo" class="profile-img">
+
+    <div class="social-links">
+        <a class="social-link" href="https://scholar.google.com/citations?hl=en&user=61Ou1P8AAAAJ" target="_blank">
+            <img src="GS.png" alt="Scholar Icon"> Google Scholar
+        </a>
+
+        <a class="social-link" href="https://www.linkedin.com/in/usmannaseem87/" target="_blank">
+            <img src="LI.png" alt="LinkedIn Icon"> LinkedIn
+        </a>
+		
+		<a class="social-link" href="https://www.linkedin.com/in/usmannaseem87/" target="_blank">
+            <img src="OC.png" alt="ORCID Icon"> ORCID
+        </a>
+		
+		<a class="social-link" href="https://github.com/usmaann" target="_blank">
+            <img src="GH.png" alt="Github Icon"> Github
+        </a>
+    </div>
+	<div style="margin-top:20px; text-align:center;">
+    <a href="https://clustrmaps.com/site/1bma2" target="_blank">
+        <img src="https://clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080" 
+             alt="Visitor Map" style="max-width:100%; height:auto;">
+    </a>
+</div>
+</div>
+        
+    </div>
+   
+
+<!-- ===== Teaching ===== -->
+<div id="teaching" class="section">
+    <h2>Teaching Experience</h2>
+
+    <!-- ================= Guest Lecture (Masters) ================= -->
+    <div class="pub-card">
+        <div class="pub-content">
+            <div class="pub-title">
+                Guest Lecture – INFO5306: Enterprise Healthcare Information Systems
+            </div>
+
+            <div class="pub-authors">
+                Masters Course, School of Computer Science, University of Sydney, 2021
+            </div>
+
+            <div class="bio">
+                Invited to deliver a guest lecture on Natural Language Processing (NLP) to master’s students at the University of Sydney, Australia. 
+                The lecture provided an overview of core NLP methodologies and discussed how user-generated data on social media can be leveraged 
+                for public health monitoring and surveillance using NLP techniques.
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= Guest Lecture (Undergraduate) ================= -->
+    <div class="pub-card">
+        <div class="pub-content">
+            <div class="pub-title">
+                Guest Lecture – HTIN5005: Computational Approaches for Healthcare Data
+            </div>
+
+            <div class="pub-authors">
+                Undergraduate Course, School of Computer Science, University of Sydney, 2021
+            </div>
+
+            <div class="bio">
+                Invited to deliver a guest lecture on NLP to undergraduate students at the University of Sydney, Australia. 
+                The lecture highlighted the importance of Natural Language Processing and its applications in healthcare.
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= Teaching Assistant (Capstone) ================= -->
+    <div class="pub-card">
+        <div class="pub-content">
+            <div class="pub-title">
+                Teaching Assistant – COMP5703: Information Technology Capstone Project
+            </div>
+
+            <div class="pub-authors">
+                Masters Course, School of Computer Science, University of Sydney, 2020
+            </div>
+
+            <div class="bio">
+                Supervised master-level students in completing their capstone projects to fulfil degree requirements. 
+                The capstone project provides an opportunity for students to carry out an independent research or design project. 
+                This includes defining a research or design question, situating it within existing knowledge, and conducting 
+                the research or system design in a systematic and rigorous manner.
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= Teaching Assistant (Data Science) ================= -->
+    <div class="pub-card">
+        <div class="pub-content">
+            <div class="pub-title">
+                Teaching Assistant – COMP5310: Principles of Data Science
+            </div>
+
+            <div class="pub-authors">
+                Masters Course, School of Computer Science, University of Sydney, 2020
+            </div>
+
+            <div class="bio">
+                Conducted tutorials for master-level students at the University of Sydney, Australia. 
+                This unit focused on understanding and applying relevant concepts, techniques, algorithms, and tools 
+                for data analysis, management, and visualisation. The goal was to enable discovery of information 
+                and knowledge to support effective decision-making and generate insights from large datasets.
+            </div>
+        </div>
+    </div>
+
+    <!-- ================= Lecturer & Unit Coordinator ================= -->
+    <div class="pub-card">
+        <div class="pub-content">
+            <div class="pub-title">
+                Lecturer & Unit Coordinator – Sydney International School of Technology & Commerce (SISTC)
+            </div>
+
+            <div class="pub-authors">
+                Undergraduate Courses, 2020
+            </div>
+
+            <div class="bio">
+                Taught undergraduate courses related to data science and programming. 
+                Responsible for course delivery, student engagement, and academic coordination.
+            </div>
+        </div>
+    </div>
+
+</div>
+
+</div>
+
+<!-- ===== Footer ===== -->
+<footer class="footer">
+    <div class="footer-container">
+
+        <div class="footer-left">
+            <strong>Dr. Usman Naseem</strong><br>
+            Macquarie University, Australia
+        </div>
+
+        <div class="footer-right">
+            <div>📧 <a href="mailto:usman.naseem@mq.edu.au">usman.naseem@mq.edu.au</a></div>
+            <div>School of Computing<br>
+                Macquarie University<br>
+                Sydney, NSW 2113, Australia
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+</body>
+</html>
