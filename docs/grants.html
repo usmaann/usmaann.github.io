@@ -386,12 +386,6 @@ body {
             <img src="GH.png" alt="Github Icon"> Github
         </a>
     </div>
-	<div style="margin-top:20px; text-align:center;">
-    <a href="https://clustrmaps.com/site/1bma2" target="_blank">
-        <img src="https://clustrmaps.com/map_v2.png?cl=3f8c8b&w=569&t=n&d=kSAQYthHj2HY4LzKVPZ4IGEQ-Zg5heY8TnCchEkLQvQ&co=ffffff&ct=808080" 
-             alt="Visitor Map" style="max-width:100%; height:auto;">
-    </a>
-</div>
 </div>
         
     </div>
@@ -493,14 +487,56 @@ body {
 <footer class="footer">
     <div class="footer-container">
 
+        <!-- LEFT -->
         <div class="footer-left">
             <strong>Dr. Usman Naseem</strong><br>
             Macquarie University, Australia
         </div>
 
+        <!-- CENTER (Map) -->
+<div class="footer-center">
+    <a href="https://info.flagcounter.com/Cff0"
+       target="_blank"
+       rel="noopener noreferrer">
+
+        <img
+            src="https://s05.flagcounter.com/count2/Cff0/bg_FFFFFF/txt_000000/border_FFFEFC/columns_5/maxflags_50/viewers_3/labels_0/pageviews_0/flags_0/percent_0/"
+            alt="Flag Counter"
+            class="footer-map">
+
+    </a>
+</div>
+
+<style>
+.footer-center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.footer-map{
+    width:260px;
+    max-width:100%;
+    height:auto;
+    opacity:0.95;
+    transition:opacity 0.3s ease;
+    border:none;
+}
+
+.footer-map:hover{
+    opacity:1;
+}
+</style>
+
+        <!-- RIGHT -->
         <div class="footer-right">
-            <div>📧 <a href="mailto:usman.naseem@mq.edu.au">usman.naseem@mq.edu.au</a></div>
-            <div>School of Computing<br>
+            <div>📧 
+                <a href="mailto:usman.naseem@mq.edu.au">
+                    usman.naseem@mq.edu.au
+                </a>
+            </div>
+            <div style="margin-top:6px;">
+                School of Computing<br>
                 Macquarie University<br>
                 Sydney, NSW 2113, Australia
             </div>
