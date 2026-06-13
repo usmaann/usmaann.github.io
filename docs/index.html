@@ -688,19 +688,12 @@ I lead the NLP for Social Good Lab - SocialNLP, where we develop safe, aligned, 
         </div>
 
         <!-- CENTER (Map) -->
-        <!-- CENTER (Map) -->
 <div class="footer-center">
     <div id="visitor-map-container">
         <img
             src="https://upload.wikimedia.org/wikipedia/commons/8/80/World_map_-_low_resolution.svg"
             alt="World Map"
             id="visitor-map">
-
-        <div id="visitor-dot"></div>
-
-        <div id="visitor-counter">
-            Visitors: <span id="count">0</span>
-        </div>
     </div>
 </div>
 
@@ -717,60 +710,106 @@ I lead the NLP for Social Good Lab - SocialNLP, where we develop safe, aligned, 
     opacity:0.95;
 }
 
-#visitor-dot{
+.map-dot{
     position:absolute;
-    width:8px;
-    height:8px;
+    width:4px;
+    height:4px;
     border-radius:50%;
     background:#ff4d4d;
-    box-shadow:0 0 8px #ff4d4d;
+    box-shadow:0 0 4px #ff4d4d;
     transform:translate(-50%,-50%);
 }
 
-#visitor-counter{
-    text-align:center;
-    font-size:12px;
-    margin-top:5px;
-    color:#777;
+.active-dot{
+    width:8px;
+    height:8px;
+    box-shadow:0 0 10px #ff4d4d;
+    animation:pulse 2s infinite;
+}
+
+@keyframes pulse{
+    0%{
+        transform:translate(-50%,-50%) scale(1);
+        opacity:1;
+    }
+    50%{
+        transform:translate(-50%,-50%) scale(2);
+        opacity:0.4;
+    }
+    100%{
+        transform:translate(-50%,-50%) scale(1);
+        opacity:1;
+    }
 }
 </style>
 
 <script>
-const landPoints = [
-[22,28],[28,22],[35,25],[42,18],[50,20],
-[55,16],[58,22],[60,28],[63,18],[68,24],
-[72,20],[75,25],[78,18],[82,22],[85,30],
-[18,40],[25,45],[35,42],[48,38],[60,40],
-[72,42],[80,38],[88,35],[20,60],[32,58],
-[48,55],[60,58],[75,55],[88,52],[15,75],
-[25,72],[40,70],[55,72],[70,70],[85,68],
-[10,50],[15,30],[25,35],[35,32],[45,30],
-[55,35],[65,30],[75,35],[85,32],[90,25],
-[12,20],[20,18],[30,15],[40,18],[50,15],
-[60,15],[70,15],[80,18],[90,20],[95,30]
+const dots = [
+
+/* North America (14) */
+[14,22],[17,18],[20,20],[23,22],[26,24],
+[18,28],[22,30],[25,32],[15,35],[20,38],
+[24,40],[28,36],[12,30],[30,28],
+
+/* South America (10) */
+[28,50],[30,55],[32,60],[34,65],[36,70],
+[29,58],[31,62],[33,67],[35,72],[27,54],
+
+/* Europe (15) */
+[46,20],[48,18],[50,20],[52,18],[54,20],
+[56,22],[49,24],[51,25],[53,24],[55,25],
+[47,27],[50,28],[52,29],[54,28],[57,27],
+
+/* Africa (10) */
+[50,40],[52,45],[54,50],[56,55],[58,60],
+[53,42],[55,47],[57,52],[59,58],[51,62],
+
+/* Middle East + Central Asia (6) */
+[61,30],[63,28],[65,30],[67,28],[69,30],[71,28],
+
+/* South Asia (6) */
+[68,36],[70,34],[72,36],[69,40],[71,42],[73,38],
+
+/* East Asia (8) */
+[76,28],[78,26],[80,28],[82,30],
+[84,28],[79,34],[81,36],[83,34],
+
+/* Southeast Asia (5) */
+[74,42],[76,44],[78,46],[80,42],[82,44],
+
+/* Oceania (6) */
+[84,70],[86,72],[88,74],[90,76],[85,78],[92,72]
 ];
 
-const point =
-landPoints[Math.floor(Math.random()*landPoints.length)];
+const container =
+document.getElementById("visitor-map-container");
 
-const dot =
-document.getElementById("visitor-dot");
+/* fixed dots */
+dots.forEach(([x,y]) => {
+    const dot = document.createElement("div");
+    dot.className = "map-dot";
+    dot.style.left = x + "%";
+    dot.style.top = y + "%";
+    container.appendChild(dot);
+});
 
-dot.style.left = point[0] + "%";
-dot.style.top = point[1] + "%";
+/* one animated dot */
+const activeLocation =
+dots[Math.floor(Math.random()*dots.length)];
 
-let count =
-localStorage.getItem("visitorCount");
+const active =
+document.createElement("div");
 
-if(!count){
-    count = 1000;
-}
+active.className =
+"map-dot active-dot";
 
-count = parseInt(count) + 1;
+active.style.left =
+activeLocation[0] + "%";
 
-localStorage.setItem("visitorCount", count);
+active.style.top =
+activeLocation[1] + "%";
 
-document.getElementById("count").textContent = count;
+container.appendChild(active);
 </script>
 
         <!-- RIGHT -->
